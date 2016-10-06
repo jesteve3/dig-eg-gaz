@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Justin Esteve</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-28">September 28, 2016</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-12-11">December 11, 1905</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7367] ALEXANDRIA, MONDAY, DECEMBER 11, 1905. [EIGHT PAGES P.T.1.</head>
+                <div type="section" scope="advertisement">
+                    <div type="item" scope="advertisement">
+        <head>The Eastern Telegraph Company, Limited</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>'SWAN' Fountain Pen</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Peninsular and Oriental S. N. Company.</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Orient-Pacific Line of Royal Mail Steamers.</head>
+        <p>OUTWARDS to AUSTRALIA.</p>
+        <p>R.M.S. “Oroya" will leave Suez about December 14 | R.M.S "Ortena will leave Suez
+            about December 29. </p>
+        <p>HOMEWARDS to NAPLES MARSEILLES, GIBRALTAR, PLYMOUTH, LONDON, TILBURY</p>
+        <p>R.M.S. "Omrah" will leave Port Said about December 18 | R.M.S. “Orontes" will leave
+            Port Said about January 1</p>
+        <table>
+            <row>
+                <cell>Port-Said to Naples</cell>
+                <cell>1st Class</cell>
+                <cell>£ 11</cell>
+                <cell>2nd Class</cell>
+                <cell>£ 7</cell>
+                <cell>3rd Class</cell>
+                <cell>£ 4.</cell>
+            </row>
+            <row>
+                <cell>Port-Said to Marseilles</cell>
+                <cell>1st Class</cell>
+                <cell>£ 13.0</cell>
+                <cell>2nd Class</cell>
+                <cell>£ 9.0</cell>
+                <cell>3rd Class</cell>
+                <cell>£ 5.</cell>
+            </row>
+            <row>
+                <cell>Port-Said to Gibraltar</cell>
+                <cell>1st Class</cell>
+                <cell>£ 15.0</cell>
+                <cell>2nd Class</cell>
+                <cell>£ 9.0</cell>
+                <cell>3rd Class</cell>
+                <cell>£ 5.</cell>
+            </row>
+            <row>
+                <cell>Port-Said to Plymouth or Tilbury</cell>
+                <cell>1st Class</cell>
+                <cell>£ 19.0</cell>
+                <cell>2nd Class</cell>
+                <cell>£ 12.0</cell>
+                <cell>3rd Class</cell>
+                <cell>£ 9.</cell>
+            </row>
+        </table>
+        <p>Egyptian Government Officials allowed a rebate of 15% off the above fares.</p>
+        <p>Return tickets no longer issued, but passengers paying full fare in one direction
+            allowed abatement of 1/3 fare back if return voyage be within 4 months of
+            arrival, or abatement of 20 o/o if return voyage be made within 8 months of
+            arrival. </p>
+        <p>Agents. Cairo:—Thos. Cook &amp; Son. Alexandria : —R. J. Moss &amp; Co.—For all
+            information apply </p>
+        <p>Wm. STAPLEDON &amp; Sons, PORT-SAID &amp; PORT-TEWFIK (Suez) 31-12-905 </p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>BIBBY LINE MAIL STEAMERS.</head>
+        <p>OUTWARDS to COLOMBO, TUTICORIN, etc., and RANGOON. Departures from Suez.</p>
+        <p>S.S. Hearsfordshire 7,182 tons, leaves about December 21.</p>
+        <p>S.S. Staffordshire 5,786 tons, leaves about January 1.</p>
+        <p>HOMEWARDS to MARSEILLES and LONDON. Departures from Port Said.</p>
+        <p>S.S. Derbyshire x,xxx tons, leaves about December 21.</p>
+        <p>S.S. Worcestorshire 7,162 tons leaves about December 24,</p>
+        <p>FARES from Port Said to Marseilles £12.0.0, London £17.0.0, Colombo £32.10.0,
+            Rangoon £37.10.0. </p>
+        <p>Agents Cairo: THOS. COOK &amp; SON. Suez &amp; Port Said : WM. STAPLEDON &amp; SONS,
+            31-12-905</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>KHEDIVIAL MAIL LINE.</head>
+        <head type="sub">FAST BRITISH PASSENGER STEAMERS</head>
+        <head type="sub">GREECE - TURKEY LINE.</head>
+        <p>Express Steamers leave Alexandria every Wednesday at 4 p.m. for PIRAEUS, SMYRNA,
+            MITYLENE, and CONSTANTINOPLE, in connection with Orient Express train-de-luxe
+            for Vienna, Paris, and London.</p>
+        <p>SYRIA LINE</p>
+        <p>Fast steamers leave Alexandria every Saturday at 6 p.m., and Port Said every
+            Sunday at 6 p.m., for JAFFA (for Jerusalem), CAIFFA (for Nazareth), BEYROUT (for
+            Damascus), TRIPOLI, ALEXANDRETTA, MESSINA, continuing in alternate weeks to
+            LARNACA and LIMASSOL (Cyprus).</p>
+        <p>RED SEA LINE.</p>
+        <p>Steamers leave Suez weekly on Wednesday at 6 p.m. for Sudan and Snakin direct returning from Snakin every Wednesday noon. Every Monday at 6 p.m. a steamer leaves Suez for Jeddah continuing every other week to Snakin, Massowah, Hodeidah, Aden. Intermediate steamers do not proceed beyond Jeddah but call at Tor, (for Sinai) El Wedj and Yambo as required.</p>
+        <p>N.B.—Deck chairs provided for the use of passengers, excellent cuisine and table
+            wine free.</p>
+        <p>Steamer plans may be seen and passages booked at the Company’s Agencies at
+            Alexandria, Cairo, Port Said, and Suez, or at THOS. COOK &amp; SON or other
+            Tourist Agency. 31-12-904</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>The Moss S.S. Company, Ltd.</head>
+        <p>For LIVERPOOL calling at MALTA (Messrs. JAMES MOSS &amp; Co. 31, James St,
+            Liverpool, Managers.)</p>
+        <table rows="3" cols="8">
+            <row>
+                <cell>Ampala</cell>
+                <cell>Tons. 4,600</cell>
+                <cell>Menes</cell>
+                <cell>Tons 3,950</cell>
+                <cell>Pharos</cell>
+                <cell>Tons 3,900</cell>
+                <cell>Tabor</cell>
+                <cell>Tons 3,000</cell>
+            </row>
+            <row>
+                <cell>*Busiris</cell>
+                <cell>Tons. 6,000</cell>
+                <cell>*Menepthah</cell>
+                <cell>Tons 5,000</cell>
+                <cell>*Philae</cell>
+                <cell>Tons 5,008</cell>
+                <cell>Seti</cell>
+                <cell>5000</cell>
+            </row>
+            <row>
+                <cell>Khophren</cell>
+                <cell>Tons. 5,000</cell>
+                <cell>*Mocris</cell>
+                <cell>Tons 7,500</cell>
+                <cell>Rameses</cell>
+                <cell>Tons 3,200</cell>
+            </row>
+        </table>
+        <p>*Second class accommodation only, unless specially reserved.—Fares : Alexandria
+            to Liverpool, 1st, £14 Single, £25 Return. 2nd, £9 Single, £15 Return.—To Malta,
+            1st, £5 Single, £9 Return, 2nd, £3 Single, £5 Return.—Return tickets available
+            for six months. </p>
+        <p>S.S. Amasis now on the berth, will sail on or about Thursday, December 16, to be followed
+            by S.S. Rameses. </p>
+        <p> Through freight rates on cotton, etc., to Lancashire inland towns, Boston, New
+            York and other U.S.A. towns, obtained on application. Cargo taken by special
+            agreement only. </p>
+        <p> Passenger Tickets also issued inclusive of Railway fare through to and from
+            Ciaro. Partiuclars on application to </p>
+        <p> R. J. MOSS &amp; Co,, Alexandria, Agenta. 26-12-905</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>MARINE INSURANCE COMPANY, LIMITED.</head>
+        <p>Established 1836. Capital £1,000,000. Reserve Fund £650,000. </p>
+        <p>THE IMPERIAL FIRE OFFICE united with THE ALLIANCE ASSURANCE, Co., Ltd.</p>
+        <p>1, Old Broad Street, LONDON—Estabished 1806.—Total Funds exceed £10,000,000.</p>
+        <p>31-12-905. Policies issued at SUEZ by G. BEYTS &amp; Co., Agents.</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>P. HENDERSON &amp; CO’s LINE.</head>
+        <p>Steamers leave SUEZ and PORT SAID fortnightly for LONDON or LIVERPOOL direct.</p>
+        <p>(Electric Light.) SALOON (Amidships) FARE £12. (Latest improvements.)</p>
+        <p>S.S. MANDALAY 6000 Tons will leave PORT SAID about Dec. 28 for Liverpool.</p>
+        <p>S.S. TENASSERIM 7100 Tons will leave PORT SAID about Dec. for Liverpool.</p>
+        <p>S.S. IRRAWADDY 7300 Tons will leave PORT SAID about Jan. 5 for Liverpool</p>
+        <p>Due in LONDON or LIVERPOOL 12 days thereafter.</p>
+        <p>Apply WORMS &amp; Co., Port Said and Suez. THOS. COOK &amp; SON, (EGYPT) LD.,
+            CAIRO ;</p>
+        <p>G. J. GRACE &amp; CO., ALEXANDRIA.</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Thos. Cook &amp; Son,</head>
+        <p>(EGYPT), LIMITED, HEAD OFFICE—LUDGATE CIRCUS—LONDON.</p>
+        <p>CHIEF EGYPTIAN OFFICE — CAIRO, near SHEPHEARD'S HOTEL. </p>
+        <p>Alexandria, Port-Said, Suez, Luxor, Assuan, Haifa, &amp; Khartum.</p>
+        <p>TOURIST AND GENERAL PASSENGER AGENTS. BANKERS.</p>
+        <p>BAGGAGE AND FORWARDING AGENTS.</p>
+        <p>Officially appointed &amp; Sole Agents in Cairo to the P.&amp;O. S.N. Co.</p>
+        <p>NILE STEAMER SERVICES.</p>
+        <p>TOURIST SERVICE. -- The large and splendidly appointed S.S. Rameses the Great, will leave Cairo on Tuesday, December 12th, for Luxor, Assuan and Philae.</p>
+        <p>EXPRESS SERVICE. -- Steamers leave Cairo every Monday and Friday for Luxor, Assuan and Philae. 19 days on the Nile for £22.</p>
+        <p>Special combined rail and steamer Nile Tours at greatly reduced fares.</p>
+        <p>BI-WEEKLY SERVICE TO HALFA, KHARTOUM AND THE SUDAN.</p>
+        <p>SPECIAL STEAMERS AND DAHABEAHS FOR PRIVATE PARTIES.</p>
+        <p>Regular service of freight steamers between Cairo and Halfa.</p>
+        <p>Cook's Interpreters in uniform are present at the principal Railway Stations and landing places in Europe to assist passengers holding their tickets.</p>
+        <p>Tours to Palestine, Syria, and Desert. Best Equipment. Lowest charges.</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>British India S. N. Company, Limited.</head>
+        <p>MAIL AND PASSENGER STEAM SHIPS.</p>
+        <p>SAILINGS FROM SUEZ, LONDON and CALCUTTA LINE.</p>
+        <p>Calling at ADEN, COLOMBO and MADRAS Outward, and MARSEILLES (GENOA and PLYMOUTH
+            optional) Homeward. </p>
+        <p>Fortnightly Service in connection with the Co's Indian Mail Lines and monthly
+            with the East African Mail Line between ADEN, MOMBASSA and Zanzibar. </p>
+        <p>OUTWARD.—S.S. Mombassa ... December 23 | HOMEWARD.—S.S. Goorkha ... December 20 </p>
+        <p>Queensland Line of Steamers Between London and Brisbane.</p>
+        <p>Calling at Colombo, Batavia, Cooktown, Townsville, and Rockhamptom.</p>
+        <p>The S.S. .................. will sail from Suez on about ..................</p>
+        <table rows="2" cols="9">
+            <row>
+                <cell>First Class Fares from Suez to</cell>
+                <cell>Aden</cell>
+                <cell>£11. 8</cell>
+                <cell>Colombo</cell>
+                <cell>£35.15</cell>
+                <cell>Calcutta</cell>
+                <cell>£31. 0</cell>
+                <cell>Marseilles</cell>
+                <cell>£15.12</cell>
+            </row>
+            <row>
+                <cell/>
+                <cell>Bombay</cell>
+                <cell>£31.10</cell>
+                <cell>Madras</cell>
+                <cell>£38.11</cell>
+                <cell>Genoa</cell>
+                <cell>£13.10</cell>
+                <cell>London</cell>
+                <cell>£19. 0</cell>
+            </row>
+        </table>
+        <p>From Port-Said £2 less Homeward, and £2 more Outward. Second class, two thirds of
+            1st Class Fares. </p>
+        <p>Agents at PORT SAID, for the London, Calcutta and Persian Gulf Lines, Messrs.
+            Worms &amp; Co. </p>
+        <p>Agents at PORT SAID, for the London and Queensland Line, Messrs. Wills &amp; Co.,
+            Limited. </p>
+        <p>Messrs. Thos. Cook &amp; Son and the Anglo-American Hotel &amp; Steamer Company,
+            CAIRO &amp; ALEXANDRIA. </p>
+        <p>For further particulars. Freight and Passage apply to G. BEYTS &amp; Co. Agenta,
+            Suez. 31-12-905 </p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>ANCHOR LINE, LIMITED.</head>
+        <p>(HENDERSON BROTHERS,) LONDON, LIVERPOOL AND GLASGOW.</p>
+        <p>Booking Passengers and Cargo through to Ports in India, Europe &amp; America</p>
+        <p>First class passengers steamers. Sailing fortnightly from Suez.</p>
+        <table rows="2" cols="6">
+            <row>
+                <cell>For MARSEILLES &amp; LIVERPOOL</cell>
+                <cell>S.S. “Olympia”</cell>
+                <cell>Dec. 13</cell>
+                <cell>For CALCUTTA</cell>
+                <cell>S.S. "Arabia" </cell>
+                <cell>December 17</cell>
+            </row>
+            <row>
+                <cell>For LONDON</cell>
+                <cell>S.S. “Asia"</cell>
+                <cell>Dec. 16</cell>
+                <cell>For BOMBAY</cell>
+                <cell>S.S. "Australia"</cell>
+                <cell>December 18</cell>
+            </row>
+        </table>
+        <p>Saloon Fares: from Port-Said, to Gibraltar £9; Marseilles £9: Liverpool (all sea
+            route) £15; London (all sea route) £ 12 London via Marseilles £15.5.0.
+            Passengers embarking at Suez £2 more, 10 % reduction for officers of army of
+            Occupation and Government employés. Through tickets issued to New-York (via
+            Glasgow). Fares on application. </p>
+        <p> Agents in Cairo, Messrs. Thos. Cook &amp; Son. Port-Said, Messrs. Cory Brothers
+            &amp; Co., Ltd.</p>
+        <p>For further partienlan of Freight or Passage apply to G. BEYTS &amp; Co., Suez.
+            31-12-905</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Deutsche Levante-Linie.</head>
+        <p>Mail and Passenger Steamships. Regular three-weekly Service from <lb/> HAMBURG,
+            via ANTWERP &amp; MALTA, to ALEXANDRIA and vice-versa, admitting<lb/> goods from
+            all chief German Railway Stations on direct Bill of Landing to<lb/> ALEXANDRIA
+            and all chief ports of Egypt, Syria, etc., at favourable through<lb/> rates of
+            DEUTSCHE <lb/> VERKEHR (traffic).</p>
+        <p>EXPECTED AT ALEXANDRIA.</p>
+        <p>S.S. Andros Dec. 3 from Hamburg bound for Rotterdam and Hamburg.</p>
+        <p>S.S. Skyros Dec. 10 from Antwerp bound for Beyrouth</p>
+        <p>S.S. Chios December 16 from Hamburg and Antwerp.</p>
+        <p>S.S. Pyrgos December 17 from Hamburg bound for Beyrouth. </p>
+        <p>For tariff and particulars apply to ADOLPHE STROSS, Alexandria Agent.</p>
+        <p>15-2-905 </p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Deutsche Ost-Afrika Linie.</head>
+        <p>GERMAN EAST-AFRICAN LINE - REGULAR MAIL-SERVICE FROM PORT-SAID</p>
+        <p>OUTWARDS. To ADEN, ZANZIBAR, DURBAN, CAPETOWN and intermediate Ports.</p>
+        <p>HOMEWARDS. To NAPLES, GENOA, MARSEILLES, LISBON, ROTTERDAM, HAMBURG.</p>
+        <p>Splendid accommodation for passengars of all classes.—First-class steamers,
+            fitted with all recent improvements. stewardesses and doctor carried—Low passage
+            rates.</p>
+        <p>For all particulars, apply to FIX &amp; DAVID, CAIRO, Sharia Mansour Pacha</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>GUARDIAN ASSURANCE COMPANY, LIMITED, OF LONDON, Established 1821.</head>
+        <p>CAPITAL PAID UP AND INVESTED ONE MILLION STERLING.</p>
+        <p>Annual Income . . . . . . . £895,000.</p>
+        <p>Total Funds . . . . . . . £5,200,000.</p>
+        <p>Agents for Egypt and the Sudan - HEWAT and Co., Alexandria.</p>
+        <p>xxxxx xx-x-xxx</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>NEW KHEDIVIAL HOTEL, ALEXANDRIA</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>PORT SAID. -- SAVOY HOTEL.</head>
+        <p>New first-class hotel, overlooking the harbour and opposite custom house.</p>
+        <p>Open all the year round. Well-appointed Bar.</p>
+        <p>Moderate charges. Special terms for residents 1190A2-5</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>LONDON ASSURANCE CORPORATION.</head>
+        <p>Established 1720. - Agents: Bank of Egypt, Limited.</p>
+        <p>xxxx</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>NORTHERN FIRE AND LIFE ASSURANCE Coy</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>ROYAL EXCHANGE ASSURANCE.</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>THE NATIONAL MUTUAL LIFE ASSOCIATION OF AUSTRALASIA, LIMITED.</head>
+        <p>ILLUSTRATION OF POLICY TO PROVIDE £1,000 FOR A CHILD.</p>
+        <p>Child aged 8 . . . . . . . . . . Father aged 80.</p>
+        <p>Cash payment at age 19 £1,000 (with bonuses) Term 16 years.</p>
+        <p>Annual Premium. £53:13:4. Total cost. £858:13:4</p>
+        <p>Should Father die before term full policy secured without further payments.</p>
+        <p>Should child die before term all contributions returned with 4 0/0 interest.</p>
+        <p>Full particulars on application to Agents in Cairo:</p>
+        <p>S. and A. DE BILINSKI,</p>
+        <p>Khedivial Bourse Court.</p>  
+    </div>
+    <div type="item" scope="advertisement">
+        <head>BANK OF ATHENS, LIMITED.</head>
+        <p><hi rend="bold">Capital 20,000,000 (Fully paid up).</hi></p>
+        <p>BRANCHES: London 55-56 Bishops gate-street Within-Alexandria, Cairo,
+            Constantinople, Smyrna, At Candia and throughout Greece.</p>
+        <p>The Bank undertakes all banking business in Egypt, Greece,<lb/> etc. Interest, on
+            cash deposits: 3 0/0 per ann. at sight; 3 1/2 0/0 <lb/> per ann. for 6 months ;
+            4 0/0 per ann. for 12 months ; 5 0/0 per<lb/> ann. for 3 years and over. Savings
+            Bank Branch receives de-<lb/>posits at 3 1/2 0/0 per ann., from P.T. 30 to P.T.
+            10,000. 23538-19-1.905</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Bell's Asia Minor Steamship Co. </head>
+        <p>Despatch weekly a steamer with good passenger accommodation carrying Mails from
+            Alexandria to Cyrpus and the Syrian Coast and vice-versa.</p>
+        <p>For particulars of freight, passage, etc., apply to the Agent Ed. A. Minotte.
+            1099-25.2.905</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>ALEXANDRIA BONDED WAREHOUSE COMPANY, LTD.</head>
+        <p>(Société des Entrepôts d'Alexandrie)</p>
+        <p>Bonded Warehouses</p>
+        <p>IN ALEXANDRIA, CAIRO, PORT SAID, AND SUEZ.</p>
+        <p>Special Departments for clearing and forwarding and for a luggage and parcel
+            Express Service.</p>
+        <p>Goods delivered against cash for account of shippers. 1-6-906</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>SUDAN GOVERNMENT RAILWAYS.</head>
+        <p>CAIRO-KHARTOUM SUMMER MAIL SERVICE.</p>
+        
+        <table rows="3" cols="7">
+            <row>
+                <cell>Wednesday and *Saturday</cell>
+                <cell>8 p.m.</cell>
+                <cell>depart</cell>
+                <cell>Cairo</cell>
+                <cell>arrive</cell>
+                <cell>*Monday and *Friday</cell>
+                <cell>7.20 a.m.</cell>
+            </row>
+            <row>
+                <cell>Thursday and Sunday</cell>
+                <cell>10 a.m.</cell>
+                <cell>depart</cell>
+                <cell>Luxor</cell>
+                <cell>depart</cell>
+                <cell>Sunday and Thursday</cell>
+                <cell>5.30 p.m.</cell>
+            </row>
+            <row>
+                <cell>Thursday and Sunday</cell>
+                <cell>6.30 p.m.</cell>
+                <cell>depart</cell>
+                <cell>Shullal</cell>
+                <cell>depart</cell>
+                <cell>Sunday and Thursday</cell>
+                <cell>9.10 a.m.</cell>
+            </row>
+            <row>
+                <cell>*Saturday and Tuesday</cell>
+                <cell>3 p.m.</cell>
+                <cell>depart</cell>
+                <cell>Halfa</cell>
+                <cell>depart</cell>
+                <cell>Friday and *Tuesday</cell>
+                <cell>6 p.m.</cell>
+            </row>
+            <row>
+                <cell>*Sunday and Wednesday</cell>
+                <cell>7.25 a.m.</cell>
+                <cell>depart</cell>
+                <cell>Berber</cell>
+                <cell>depart</cell>
+                <cell>Thursday and *Monday</cell>
+                <cell>9.5 p.m.</cell>
+            </row>
+            <row>
+                <cell>Sunday and Wednesday</cell>
+                <cell>12.25 p.m.</cell>
+                <cell>depart</cell>
+                <cell>Shendi</cell>
+                <cell>depart</cell>
+                <cell>Thursday and Monday</cell>
+                <cell>4 p.m.</cell>
+            </row>
+            <row>
+                <cell>Sunday and Wednesday</cell>
+                <cell>4.30p.m.</cell>
+                <cell>arrive</cell>
+                <cell>Khartoum</cell>
+                <cell>depart</cell>
+                <cell>Thursday and Monday</cell>
+                <cell>12 p.m.</cell>
+            </row>
+        </table>
+        <p>Mail delivered Khartoum, Sun. and Wednesday evening, and Cairo, Mon. and Friday
+            morning. *Dining and Sleeping Cars.</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Telephone Company of Egypt, Limited.</head>
+        <p>CAIRO-ALEXANDRIA TELEPHONE.--Rates as follows P.T. 5 for each 3 minutes, or
+            fraction of 3 minutes; P.T. 10 for over 3 up to 8 minutes communication.</p>
+        <p>PUBLIC CALL-OFFICES : Cairo, Central Office, Opera Square, and New Bar; Helouan,
+            Central Office, Maison Purvis ; Alexandria, St Mark’s Buildings, Egyptian Bar,
+            I. Castelli &amp; Co.; Ramleh, Central Office. San Stefano Casino 30.4.906</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Anglo-American Nile Steamer &amp; Hotel Coy.</head>
+        <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
+            Steamers VICTORIA, PURITAN &amp; MAYFLOWER.<lb/> Regular weekly Departures to
+            the SECOND CATARACT by the S.S. INDIANA.<lb/> THROUGH BOOKINGS TO KHARTOUM,
+            GONDOKORO AND THE WHITE NILE.<lb/> Steamers and Dahabeahs for private charter.
+            Steam Tugs and Steam Launches for hire.<lb/> FREIGHT SERVICE BY STEAM BARGES
+            BETWEEN CAIRO AND ALEXANDRIA.<lb/> Working in conjunction and under special
+            arrangement with the<lb/> “Upper Egypt Hotels Company."</p>
+        <p>For details and illustrated programmes apply to "THE ANGLO-AMERICAN NILE STEAMER
+            and<lb/> HOTEL COMPANY."</p>
+        <p> OFFICES IN CAIRO: Sharia Boulac, "Grand Continental Hotel Buildings.” 31-3-06</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>NORDDEUTSCHER LLOYD.</head>
+        <p>Weekly Service from ALEXANDRIA (Passenger and Freight) to NAPLES-MARSEILLES.</p>
+        <p> SCHLESWIG wiH leave ALEXANDRIA at 3 p.m. Dec. 21, Jan. 10 and 24, Feb. 7 and 21, etc. </p>
+        <p>The following steamers are intended to leave POBT-8AID: </p>
+        <table rows="14" cols="3">
+            <row>
+                <cell cols="3">HOMEWARD : for Bremen Hamburg via Naples, Genoa, (Gibraltar),
+                    Southampton, Antwerp.</cell>
+            </row>
+            <row>
+                <cell>Sachsen</cell>
+                <cell>5036 Tons</cell>
+                <cell>about 13 Dec.</cell>
+            </row>
+            <row>
+                <cell>Prine Henrich</cell>
+                <cell>8262 Tons</cell>
+                <cell>about 12 Jan.</cell>
+            </row>
+            <row>
+                <cell>Barbarosa</cell>
+                <cell>10915 Tons</cell>
+                <cell>about 14 Dec.</cell>
+            </row>
+            <row>
+                <cell>Scharnhorst</cell>
+                <cell>8751 Tons</cell>
+                <cell>about 12 Jan.</cell>
+            </row>
+            <row>
+                <cell>Pr. Regt. Luitpold</cell>
+                <cell>6288 Tons</cell>
+                <cell>about 29 Dec.</cell>
+            </row>
+            <row>
+                <cell>Pr. E. Friedrich</cell>
+                <cell>8865 Tons</cell>
+                <cell>about 26 Jan.</cell>
+            </row>
+            <row>
+                <cell cols="3">OUTWARD: for CHINA and JAPAN via SUEZ, ADEN, COLOMBO, PENANG,
+                    SINGAPORE.</cell>
+            </row>
+            <row>
+                <cell>Zieten</cell>
+                <cell>8043 Tons</cell>
+                <cell>about 8 Jan.</cell>
+            </row>
+            <row>
+                <cell>Preussen</cell>
+                <cell>5295 Tons</cell>
+                <cell>about 25 Dec.</cell>
+            </row>
+            <row>
+                <cell>Princess Alice</cell>
+                <cell>109x1 Tons</cell>
+                <cell>about 22 Jan.</cell>
+            </row>
+            <row>
+                <cell cols="3">For AUSTRALIA via SUEZ, ADEN, COLOMBO.</cell>
+            </row>
+            <row>
+                <cell>Seydlitz</cell>
+                <cell>7943 Tons</cell>
+                <cell>about 17 Dec.</cell>
+            </row>
+            <row>
+                <cell>Friedrich D. Grosso</cell>
+                <cell>10695 Tons</cell>
+                <cell>about 14 January</cell>
+            </row>
+            <row>
+                <cell>Bremen</cell>
+                <cell>11570 Tons</cell>
+                <cell>about 11 Feb.</cell>
+            </row>
+        </table>
+        <p>FOR FURTHER PARTICULARS APPLY TO THE AGENTS OF THE </p>
+        <p>NORDDEUTSCHER LLOYD at Cairo, Alexandria, Port-Said and Suez. </p>
+        <p>OTTO STERZING, Agent In Cairo, Opera Square. </p>
+        <p>C. H. SCHOELLER, Agent In Alexandria, Cleopatra Lane.</p>
+        <p>Messrs. THOS. COOK &amp; SON (Egypt) LTD., and CARL STANGENS REISEBUREAN are
+            anthorised to sell tickets in CAIRO and ALEXANDRIA, 31-8-905</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Austrian Lloyd's Steam Navigation</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>CUNARD LINE.</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Ellerman Lines, Limited.</head>
+        <table rows="3" cols="6">
+            <row>
+                <cell cols="3">Allermans City Line.</cell>
+                <cell cols="3">Ellermans City and Hall Line.
+                </cell>
+            </row>
+            <row>
+                <cell cols="6">The undermentioned First Class Passenger Steamers will be
+                    dispatched from Port Said on or about the following dates for </cell>
+            </row>
+            <row>
+                <cell>Malta and London </cell>
+                <cell>S.S. City of Sparta </cell>
+                <cell>Dec. 26</cell>
+                <cell>Marseilles and Liverpool</cell>
+                <cell>S.S. City of Bombay</cell>
+                <cell>Dec. 16</cell>
+            </row>
+            <row>
+                <cell>Colombo and Calcutta</cell>
+                <cell>S.S. City of Corinte</cell>
+                <cell>Dec. 25</cell>
+                <cell>Bombay</cell>
+                <cell>S.S. Trafford Hall</cell>
+                <cell>Dec. 25</cell>
+            </row>
+        </table>
+        <p>SALOON FARES:—Port Said to Malta £4.10.0. Marseilles. £10.0.0. London or
+            Liverpool, £l4.0.0. Colombo, Calcutta, Bombay or Karachi, £35.0.0. Special
+            rates for steamers not carrying Doctor or Stewardess. For further particulars
+            apply to </p>
+        <p>CORY BROS. &amp; Co., Ltd., Agents for CITY Line, Port Said: W. STAPLEDON &amp;
+            SON, Agents for Hall Line, Port Said ; or COOK &amp; SON (Egypt), Ltd., Cairo.
+            23783-28-3-905 </p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>Navigation Générale Italienne.</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>NATIONAL BANK OF EGYPT.</head>
+        <p>CAPITAL: L. 3,000,000. RESERVE (ENVIRON) : L. 1,340,000.</p>
+        <p>Gouverneur: Sir ELWIN PALMER, K.C.B., K.C.M.G.</p>
+        <p>Siège Social au Caire, Succursale à Alexandria, Agence à Assiout, Assuoan, Benha,
+            Beni-Suef, Chibin el Kom, Damanhour, Fayoum, Khartoum, Kéneh, Mansourah. Minieh,
+            Port-Said, Suakin, Sohag, Tantah, Zagazig, Mouski (Caire) et Londres (4 et 5,
+            King William Street).</p>
+        <p>La National Bank of Egypt reçoit des dépots à termes fixes, fait des avances et
+            ouvre des comptes courants sur titres, valeurs et marchandises. Elle s’occupe de
+            l’achat et de la vente d'effets sur l’Etranger, de l'escompte, ainsi que de
+            toutes opérations de Banque. 31-12-904</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>SUDAN DEVELOPMENT AND EXPLORATION CO., LTD.</head>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>IMPERIAL OTTOMAN BANK.</head>
+        <p>CAPITAL: £10,000,000.</p>
+        <p>HEAD OFFIOE IN CONSTANTINOPLE. CHIEF AGENCIES: LONDON &amp; PARIS.</p>
+        <p>BRANCHES IN ALL THE PRINCIPAL TOWNS IN TURKEY.</p>
+        <p>Agencies in Egypt : ALEXANDRIA, CAIRO, &amp; PORT SAID.</p>
+        <p>Advances on Merchandise and Securities in current account and for fixed periods.
+            Purchase and sale of stocks and Shares on the London and Continental exchanges,
+            letters of credit issued, valuables reoeived in safe custody. Drafts, cheques
+            and telegraphic transfers issued on the principal towns of the world. Foreign
+            exchange purchased, bills discounted, bills, invoices, annuities and dividends
+            collected and every description of banking business transacted. 18-4-906</p>
+    </div>
+    <div type="item" scope="advertisement">
+        <head>INSURANCE.</head>
+        <p>LIFE The Edinburgh Life Assurance Company.</p>
+        <p>MARINE Union Insurance Society of Canton (Limited).</p>
+        <p>FIDELITY National Guarantee &amp; Suretyship Association (Limited).</p>
+        <p>Risks accepted at Tariff rates. -- Claimes liberally and promptly settled.</p>
+        <p>Agents for Egypt: HEWAT &amp; Co., Alexandria.</p>
+    </div>
+</div>
+            </div>
+            <div type="page" n="3"><div type="item">
+                <head>THE EGYPTIAN GAZETTE, MONDAY, DECEMBER 11, 1905</head>
+            </div>
+                <div type="item">
+                    <head>THE LIBERAL CABINET</head>
+                    <head>FORMATION of ministry.</head>
+                    <p>London, December 9.</p>
+                    <p>The  Time'e" states that Sir E. Grey will be Secretary for Foreign Affairs.
+                        The "Daily News" says that the health of Sir Henry Campbell-Bannerman will be no bar to his remaining in the Commons.
+                        The Ministerial orators are describing the principal features of the Home Rule proposal.</p>
+                    <p>(Reuter)</p>
+                    <p>London, December 9.</p>
+                    <p>The following is regarded as being the probable formation of the Cabinet: Mr. Asquith Chancellor of the Exchequer, Mr. Morley Secretary of State for India, Sir E. Grey Secretary of State for Foreign Affairs, Lord Elgin Secretary of State for the Colonies, Mr. Haldane secretary of State for War, Lord Tweedmouth First Lord of the Admiralty, Sir H.H. Fowler Chancellor of the Duchy of of Lancaster, Lord Aberdeen Lord Lieutenant of Ireland, Mr. Bryce Chief Secretary to the Lord Lieutenant of Irelaud.</p>
+                    <p>The King returns to town to-morrow evening. Sir Henry Campbell-Bannerman will then submit the list of Ministers to His Majesty. The outgoing Ministers will hand over their seals on Monday.</p>	<p>(Reuter)</p>
+                    <p>London, December 10.</p> <p>The probable formation of the Cabinet as published yesterday is officially confirmed, with the following additions :-- First Lord of the Treasury, Sir. Henry Campbell-Bannerman ; Lord High Chancellor, Sir R. T. Reid ; Secretary of State for Home Affairs, Mr. H. J. Gladstone ; President of the Local Government Board,Mr. John Barns : Secretary for Scotland, Captain John Sinclair ; Preside nt of the Board of Agriculture, Lord Carrington ; Postmaster General, Mr. S C. Buxton ; Lord President of the Council, Lord Ripon; President of the Board of Education, Mr. A. Birrell; Lord Chancellor of Ireland, Justice Walker; First Commissioner of Works and Public Buildings, Mr. L. V. Harcourt.</p>
+                    <p>The King has approved of the Cabinet  (R.)</p>
+                </div>
+                <div type="item">
+                    <head>CHAMBERLAIN AND BALFOUR.</head>
+                    <p>London, December 9.</p>
+                    <p>Speaking at Oxford, Mr. Chamberlain said that nothing has taken place which in any way affects his personal relations and political connection with Mr. Balfour. He remarked that though the name of Home  Rule has been abandoned, the policy still remains the sarne, and that Home Role would be granted by instalments on the hire system. He strongly advised fiscal reform based on the imperialist view, aiming at the inclusion of the colonies in a single confederation, all the members of which would mutually support each other.</p> <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>MR. BALFOUR AND HOME RULE.</head>
+                    <p>LONDON, December 10.</p>
+                    <p>Speaking at Manchester, Mr. Balfour said that Home-Rule was still in the fore-front of the policy of the Liberals. He hoped that the Liberals would continue the Unionist foreign policy, but he  did not see how a mixed administration of Big and Little Englanders would be able to secure continuity of policy.</p>
+                    <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>LOCAL AND GENERAL.</head>
+                    <p>Austro-Hungarian Benevolent Society.</p>
+                    <p>The general meeting of the Austro-Hungarian Benevolent Society will take place at 6 p.m. on the 16th inst at the Austro-Hungarian  Consulate, Cairo.</p>
+                    <p>Public Health Dept.</p>
+                    <p>Dr. J. M. Flood, Inspector of the 2nd class, Ismailia, having been pronounced medically unfit for further service, is struck off the strength of the  Department, to date from Dec. 3, 1905.</p>
+                    <p>North German Lloyd.</p>
+                    <p>The S.S. Seble-wig, which was timed to leave Alexandria on the 27th inst for Naples and Marseilles, will not leave on that date, but on the 21st inst. This will be a great convenience for tourists who wish to leave before the holidays.</p>
+                    <p>Twitterings.</p>
+                    <p>The female voice has sometimes been compared to the twittering of a bird. A man's voice has such a different tone that it is necessary to have more than one teacher in order to under stand the pronunciation of a foreign language perfectly. The lessons in the Berlitz Schools are given alternately by teachers of both sexes This is an immense and unique advantage for pupils.</p>
+                    <p>Concert.</p>
+                    <p>The first concert of the season will take place at the Savoy Hotel at 4:30 p m. on the 13th inst, when M. Pierre Loredan, whose repotation as a pianist is considerable, will render the following programme :</p>
+                    <p>1 (a) Fantaisie en Do mineur (Mozart) ; (b) Pastorale (Scarlatti).-- 2. Sonate, op. 27, No. 2 (Beethoven). 3. (a) Rondo capriccioso (Mendelsohn) ; (b) Mouvement perpétuel (Weber), 4. (a)Prélude-: b) Fantaisie impromptu;(c) Berceuse (Chopin).--: .Gazouillement du printemps (Sinding). 6 - Il tremolo (Gottachalk).
+                        7. (a)La Fileuse (Raff) ; (b) Si oiseau j'étais; (b) Eroica (Henselt).-- (a) Bacchananale; (b) Rigoletto, paraphrase (Liont).</p>
+                </div>
+                <div type="item">
+                    <head>NEWS FROM RUSSIA.</head>
+                    <head>NOTHING FAVORABLE.</head>
+                    <head>NO DIRECT TELEGRAMS.</head>
+                    <p>London, December 9.</p>
+                    <p>The news from Russia continues to be the same record of mutinies, disorders, bankruptcy and runs on banks, expeocially savings banks. Nothing is favorable except the prospect of the termination of the telegraph strike. General Maximovitch has been sent to Saratoff to replace General Sakharoff, whose murder is ascribed to his fierce repression of agrarian disorders.</p>	<p>(Reuter)</p>
+                    <p>St. Petersburg,December 9.</p>
+                    <p>Some artillerymen have revolted at Gorakal-vars near Warsaw. No arrests have been made for fear of more serious disorders.</p> <p>(Havas)</p>
+                    <p>London, December 10.</p>
+                    <p>There are as yet no direct telegrams from Russia.</p>	<p>(Reuter)</p>
+                    <p>St. Petersburg, December 10.</p>
+                    <p>Two Naval Battalions have been arrested here and conveyed to Kronstadt, as the authorities feared that they would side with the workmen in the event of street disorders.</p>
+                    <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>THE CHATHAM COLLISION.</head>
+                    <head>RESPONSIBILITY FIXED.</head>
+                    <p>London, December 10.</p>
+                    <p>The judgment of the Admiralty Court declares that the Clan Comming is solely responsible for the collision with the Chatham in the Suez Canal.</p>	<p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>THE NOBEL PRIZE.</head>
+                    <p>Stockholm. December 10.</p>
+                    <p>Nobel Prize. Medicine, Professor Koch; Physics, Professor Lenard of Kiel ; Chemistry. Professor Baeyer of Munich. for his Indigo researches ; Literature, M. Sienkiewiez ; Peace, the Baroness Sultner.</p>	<p>( Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>GEN KUROKI AT TOKIO.</head>
+                    <p>Tokio December 10.</p>
+                    <p>General Koroki has made an imposing entrance into the city.</p>	<p>(Havas)</p>
+                </div>
+                <div type="item">
+                    <head>SIR R. CLAVERHOUSE JEBB DEAD.</head>
+                    <p>London, December 10.</p>
+                    <p>Sir Richard Claverhouse Jebb is dead</p> <p>(R.)</p>
+                </div>
+                <div type="item">
+                    <head>KHEDIVIAL OPERA HOUSE.</head>
+                    <p>The Cairo theatre season opened at the Khedivial Opera House on Thursday with Pailleron's La Souris. It is, of course, early to pronounce on the merits of the company, but the repertoire promises well enough. La Souris, witty and clever, as is all Pailleron's work, was certainly an excellent beginning, and quite well interpreted. Mme Moreno, who has visited us again this year, was as welcome as ever, and deserved the applause she received : she had, naturally, the hardest part, supporting that side of the play which verges on the tragic ; and while her acting was most quiet and convincing, her voice and diction were a delight--a relief, we must confess, to the somewhat tapid and at times overload speech of her colleagues. The play is perhaps too natural in its reproduction on the stage of what all would understand from experience. M. Monteux was certainly good as Max. But judgment will be an easier matter after some more performances have been given. So far all seems well enough. Mme Moreno, at the conclusion of the play, recited ''Les trois Hussards, as well as the "Adieu Suzon" of Musset. In both her charm of diction and expression was shown to its full, and we may well look forward to and enjoy her appearance in sub-sequent plays.</p>
+                    <p>L'Ami Friz and Le Passant were given on Friday. L'Ami Fritz is a comic opera pure and simple--without the music, as idyllic as can be, plenty of eating and drinking, pretty maidens, housekeepers, old and tried, marriage at the end, a relief in every way to the writer's other works : here was no snow, hunger, enemies, the trouble and endurance of war. It was very nicely staged and played, and such little subtleties of acting as appeared (shared by Fritz himself and his old Rabbi Councillor) were quite well brought out. The whole play has somehow a Teutonic flavour; it reminds one of the Verkaufte Braut (not that that is strictly speaking Teutonic) and other such ; and it is perhaps as good praise as need be to say that the actors all adapted themselves to it.</p>
+                    <p>The short piece that followed--Le Passant of Francois Coppée--was in every way different, in its exquisite verse and dreamy Italian 'décor' : the diction and charm of voice of the two protagonists--rather the two performers--rendered the whole a gem. Mme Moréno we knew, but her companion Mlle Franquet fully kept up the harmony, and she has not perhaps the variety and clarity of tone which signalises Mme Moreno, but she has a most musical voice, and almost all through she avoids convention.</p>
+                    <p>The staging was in every way admirable ; even Antoine himself might have approved it.</p>
+                </div>
+                <div type="item">
+                    <head>RIOT At ALEXANDRIA</head>
+                    <head>POPULAR EXCITEMENT.</head>
+                    <p>Alexandria was the scene of a somewhat serious disturbance yesterday afternoon,which, coming upon the rumours prevalent daring the past ten days, led to an extraordinary state of alarm and excitement among all classes of the population. There are various rumours as to the origin of the disturbance, but it appears that two Greeks were playing cards in a coffee-house at about 3.30 pm. in the rue de Malte,.which unites Sisters-Street with Anastasi street. They quarrelled during the game and one of the players drew his revolver and discharged its contents at his compatriot The man who was aimed at dodged,and the contents of one of the chambers of the revolver lodged in the body of an Arab, who happened to be near by, and who fell to the ground.</p>
+                    <p>The Arabs in the neighborhood at once rushed on the Greek, who fled to a tobacconist's  shop, belonging to a Greek of the name of Vounapartopoulo, which was besieged and wrecked by the infuriated mob.</p>
+                    <p>Fortunately the police came to the rescue of the Greeks,and with great difficulty and by the help of their bayonets succeeded in getting them to the Menshieh caracol.</p>
+                    <p>TheHamamil quarter, where the disturbance broke out, is inhabited, in large part, by the lowest class of Europeans and natives. The former became panic-stricken and began to fire in the air from the roofs of the houses, which needlessly excited tbe natives. While this was going on in the Hamamil, huge crowds of Arabs came into the Mohamed Aly square, Saint Catherine's-square, Sister-Street, and all the neighboaring quarters. Many Europeans were attacked in the streets and the trams. The mob in the Mohamad Aly-square was more rowdy than vicious, and was composed of a number of youths. But the trouble in the Hamamil  quarter and Anastasi-street was more serious. The mob smashed the" chairs and tables in the open-air cafes in the square, while the masons at work on the large block now being built in the Post Office street began to hurl stones and building material on the people below. The mob obtained weapons by using the legs of the tables and chairs of the cafes aod battered any Europeans they came across.</p>
+                    <p>The panic among the Europeans in the Square and its immediate neighbourhood was very great. A large number fled for refuge to Saint Catherine's Cathedral,and fainting women were borne to the Mixed Tribunals, where a number of Europeans were accommodated daring the disturbance. The guardian of the Tribunal disarmed a large number of the rioters.</p>
+                    <p>We regret to state that among the victims of the mob's fury was Mr. Marsden, the sub manager of the Anglo-Egyptian Bank at Alexandria, whose ear was slit, but who was not dangerously wounded. Among other Europeans attacked was the  cashier of Messrs. Walker and Meimarachi. He was walking down Saint Mark's-street at the time, when a score of Arabs, armed with nabouts, rushed after him, crying "Death to the Christian" He was rescued in the nick of time by the bowab of Saint Mark's Building, who pushed him into the passage of the building.</p>
+                    <p>One of our reporters, who was on the spot when the disturbance broke out, was attacked by the mob in Anastasi street, and he declares that the attitude of the mob in the Hamamil was very threatening. H.E. Mahmoud Pasha-Sidky, Governor of Alexandria, Miralai Hop-kinson Bey, Commandant of the Alexandria City Police, Bimbashi Cobbe, Sub-Commandant, and a number of mounted police hastened to the scene of the disturbance. The most effective means employed for calming the overheated passions of the populace were the hoses of the Alexandria. Fire Brigade, which played water upon the crowd with great force and succeeded in dispersing the mob in all directions.</p>
+                    <p>The excitement spread from the square to other parts of the town and in the Attarin quarter hundreds of Berberin vagabonds rushed through the streets with nabouts.</p>
+                    <p>Quiet was restored at about 5.30 o'clock, and the Mohamed Aly square presented its usual aspect in the evening. Most of the chairs and tables belonging to the coffeehouses that had been destroyed were removed and the damage visible was mainly limited to a little bro ken plate glass. The black marble plate of the Cassa di Soonta e di Risparmio was smashed to pieces, but on the whole little damage was done, for fortunately, being Sunday afternoon, the shops had their shutters up. The streets generally were very deserted during the evening, the number of persons about being few.</p>
+                    <p>The Cafe de France in the Grand Square was attacked and greatly suffered at the hands of the mob. In Anastasi-street much glass and many lamps were smashed.</p>
+                    <p>During the past few days the garrison at Fort Kom el-Dik had been reinforced, but for some unknown reason the fort was depleted of its additional troops on Saturday. Yesterday the fort's garrison was again reinforced.</p>
+                    <p>The water supply of the city was to have been completely cut off by the Alexandria Water Company at 8.30 o'clook last night, but owing to the urgent representations of the Governor of Alexandria and the Commandant of Police it was decided to leave the water supply on in case any fires broke out, or it was found necessary again to use the hose on the populace.</p>
+                    <p>About 250 members of the Alexandria City Polioe were employed in quelling the rioting, and they effected the arrest of 160 natives. Most conflicting accounts are given as to the
+                        attitude of the police during the riot. It is stated that the police did not show any real determination at the beginning of the trouble, and only began to exert themselves when the chief officers arrived. An eye-witness says:-- I was in my house in Anastasi-street yesterday when I saw two policemen taking a European away. The police were followed by two other officers with drawn swords. The European was not protected in front by the police and the natives threw stones at him and hit his face with sticks until it was a bleeding indisting-uishable mass of flesh. Another European was brought along by the police and treated in the same way by the populace.</p>
+                    <p>THE SCENE IN THE SQUARE.</p>
+                    <p>"An Eye-witness" writes:--I witnessed from the upper story of a house on the square the disturbance which took place there this afternoon, and it may interest you to know what I saw. I may preface- my remarks by saying that, near the same spot, I'saw the massacre in June, 1882. I was also in Turkey during the massacres in 1896. I do not therefore think that I am likely, to be unduly impressed by what I saw to-day. I was reading in my room when, abont a quarter past four o'clock, I beard an unusual noise in the street. Thinking -that a serious accident had happened, I went to the windows of my rooms and, to my great surprise, I saw a great crowd of persons, both natives and Europeans, rushing frantioally in all directions, as' though they were being panned. I remarked that many of the Arabs were carrying rough pieces of wood in their hands, sufficiently large to inflict an ugly wound, if used as a weapon; other Arabs were busy trying to break up chairs which evidently ban been stolen from a cafe near. The object of breaking up the chairs was evidently to provide a supply of bludgeons. Some of the Arabs broke the chairs by striking them against the stone roadway; others placed chairs before the passing trams, possibly with the idea of stopping tbe trams. In any case, it was evident they meant mischief. The spectacle was identical with that which I saw in 1882 and, as there was an ugly crowd of some thousands of persons at the, bottom of the Place, with which the police was evidently unable to cope, tbe situation seemed a serions one. This crowd appeared to be one solid compact mass, and it was only after the arrival	of the fire engines
+                        that it was, dispersed into the side streets and shortly after quiet was restored. I should say that the mob was not organised, but it was evident that a row of some sort was looked for, as I remarked that, as was the case in 1882, the Berberin were much in evidence, some came on foot, in groups of three or four, others by the trams. They ware evidently on the qui vive. Now we shall possibly be told, by those who are responsible for the maintenance of order in this city, 'that the gamins and shoeblacks were only having a big lark ; that the whole thing was in itself unimportant, and that those who took the thing seriously are poor timid creatures who are easily alarmed.
+                        I am not easily alarmed and my longexp-rienoe of the elements composing the population of this city warrants me in saying that a vary grave danger existed and still exists. It is notorious that, for weeks past, both Christians and natives have been busily occupied in pro-ouring arms. No one seems exactly to know why, but natives and Christians alike are nervously awaiting for something to happen. This in itself is a danger and some mens should be taken to demonstrate that the responsible European authorities,for they alone\ can be relied on, dispose of the means necessary to maintain order. It proof ware wanting of the utter uselessness in case of emergency of the police, as it is at present organised, this shoe-black demonstration gave it Their efforts (?) to restore order were absolutely grotesque, so far as I saw. A set of special c onstates would have known better what to do.1 Many were the enquiries as to the whereabouts , of the armée d'occupation. Some said it would only appear if there was shooting to be done, others said that t he authorities were afraid to send troops into the town lest people should get alarmed and visitors he deterred from coming to Egypt All were agreed that it was better to be even more alarmed than they already were than risk a broken bead. Seriously, it is time that some energetic measures were taken to reassure the public, which possibly, though I dont think so, may be needlessly alarmed.</p>
+                </div>
+                <div type="item">
+                    <head>ON THE BOURSE.</head>
+                    <p>This morning some timorous brokers sent off telegrams to London stating that a riot had taken place and that all settlements were to be kept in suspense until the situation was clear. Some prominent Alexandria stock brokers, on hearing of this, at once telegraphed to the London Stock Exchange Committee to the effect that everything was calm and that that settlements were going on as usual. This had a quieting effect and the market has been very firm all round a large number of transactions taking place.</p>
+                    <p>At the time of the disturbances, about 5.30 o'clock, when the police had cleared the people from the Frank-street end of Mohamed Aly-square the backwash of the rioters (e.g., bootblacks and other rowdy youths) were driven by the mounted polioe towards Cherif Pasha-street. There was a large crowd, standing anxiously watching the scene from the peristyle  of the Bourse. When the rabble came up to the neighbourhood of tbe Bourse all these spectators of the fray, huddled up together, seized chairs, decanters aod glasses and with shouts of determination decided to sell their lives dearly. Ore prominent-brokerstanding  there boldly exclaimed "Defendiamooi fino al l'ultimo." He then brandished a chair over his head and retired into the interior of the Bonne. His comrades remained on the peristyle  but none of them were hurt as none of the rioters ever got rear them.</p>
+                </div>
+                <div type="item">
+                    <head>THE WOUNDED</head>
+                    <p>On enquiry the Alexandria Gouvernorat  this morning we were informed that no person had been killed in tbe rioting, but ten Europeans were brought to the Menshieb Caracol in the afternoon with contusions in their heads. One native was shot by a Greek and another native was stabbed by a Greek but neither have as yet succumbed to their wounds. Both these Greeks were arrested.</p>
+                </div>
+                <div type="item">
+                    <head>MACEDONIAN QUESTION</head>
+                    <head>THE SULTAN'S ACCEPTANCE.</head>
+                    <p>(Gazette's Special Service).</p>
+                    <p>London, Monday, Dec. 11.</p> <p>The Sultan's complete acceptance of the proposals of the Powers has been slightly modified. The forte's conditions are, it is expected to be presented to the Powers to-day. The period of financial control in Macedonia has been fixed for two years.</p>
+                    <p>Constantinople, December 9.</p>
+                    <p>It is hoped that-the question of the financial control in Macedonia will soon be finally settled. The Ambassadors of the Powers are awaiting instructions.</p>	<p>(Havas)</p>
+                </div>
+                <div type="item">
+                    <head>ESNEH BARRAGE.</head>
+                    <head>IMPORTANT IRRIGATION WORK.</head>
+                    <p>We understand that ths Government have decided to proceed with the construction of the Beneh Barrage, and that the contract for this important undertaking has been entrusted to the well-known firm of Messrs. John Aird and Co. The work will be commenced at once, the time allowed for the completion of the undertaking being four years.</p>
+                    <p>When this Barrage is finished it will bring some 240 miles on either side of the Nile, or 480 miles in all, under perennial irrigation,--a very important addition to the resources of the Government and a valuable increase in-the production of the land that brought under the in fluence of the Barrage.</p>
+                </div>
+                <div type="item">
+                    <head>UPPER NILE NAVIGATION.</head>
+                    <head>A PROCLAMATION.</head>
+                    <p>The following proclamation has been issued by the Sudan Government:--</p>
+                    <p>Khartoum, Dec. 7.</p>
+                    <p>It is hereby proclaimed and enacted 1.) that no steamer, ship, vessel, or boat from Bor or any place upon the River Nile or its tributaries north of that station shall go south of Bor unless it holds a permit in writing from the officer commanding at that station or from such other- officer as may be authorised to grant such permit.</p>
+                    <p>2. No steamer, ship, vessel, or boat coming from any place on the River Nile or its tributaries south of latitude 5 80 N. may come north of that latitude without a like-permit.</p>
+                    <p>3. The officer commanding at Bor station and any other officer authorised to grant the aforesaid permit may refuse any permit without reason assigned and may attach conditions to any permit Every permit shall be revocable.</p>
+                    <p>4. Any contravention of the provisions of Section 1 and 2 or of the conditions attached feu a permit shall render the steamer, ship, vessel or boat in respect of which such contravention  occurs, and its cargo, liable to seizure and confiscation, and the person in charge of snch steamer, ship, vessel or boat, and every person abetting the contravention shall be liable to a fine and in default of payment to imprisonment.</p>
+                </div>
+                <div type="item">
+                    <head>Nile-red sea railway.</head>
+                    <p>As some misapprehension  seems to exist as to tee date of the official inauguration of the Nile-Red 8ea Railway, we may state that the ceremony will take place on January 27, 1906.</p>
+                </div>
+                <div type="item">
+                    <head>SALT AND SODA AMALGAMATION.</head>
+                    <p>Negotiations are going on between the Egyptian Salt and Soda Co. and the Port Said Salt Co:, with a view to the amalgamation of the two companies.</p>
+                </div>
+                <div type="item">
+                    <head>STEAMER MOVEMENTS.</head>
+                    <p>The Messageries Maritimes SS. Congo, from Marseilles, passed the Straits of Messina on Saturday and is doe at Alexandria tomorrow.</p>
+                </div>
+                <div type="section" scope="advertisement">
+                    <p>ARISTON AERATED WATERS</p>
+                    <p> Guaranteed Distilled.</p>
+                    <p> ALEXANDRIA: 7 Rue de la Poste. </p>
+                    <p>CAIRO opposite the Tramways Co. Works, Sharia Sahal, Kasr-el-Nil</p>
+                </div>
+                <div type="item">
+                    <p>Anglo-American Nile Steamer &amp; Hotel Company </p>
+                    <p>River Transport of Good Between Alexandria &amp; Cairo</p>
+                    <p>Three Sailings a-Week.</p>
+                    <p>Agents at Alexandria:</p>
+                    <p>Alexandria Bonded Warehouse Co. Ld</p>
+                    <p>x.10.904</p>
+                </div>
+                <div type="item">
+                    <p>MOER'S HOTEL,</p>
+                    <p>First Class Encampment,</p>
+                    <p>On Lake Moeris</p>
+                    <p>In connection with the Kardon Hotel Fayoum.</p>
+                    <p>For particulars apply Mr. TASCO, Fayoum. 26343-31.8.906</p>
+                </div>
+                <div type="item">
+                    <head>THE SUCRERIES</head>
+                    <head>SETTLEMENT PENDING.</head>
+                    <p>We understand that a conclusion of the negotiations  as to a settlement equitable alike to the creditors end bondholders has almost been reached, and that definite news may be expected et any moment.</p>
+                    <p>The fourth meeting of the creditors of the Sucreries took place on Saturday afternoon under the presidency of Judge Took. Proceedings opened shortly after 3 p.m., when the judge asked Ma Carton de Wiart whether he was able to put any definite proposals before the meeting. Me. Carton de Wiart replied (that be was still unable to do so, but that the negotiations were nearing a settlement. In reply to another question on the part of the President, he stated that proposals now being considered differed from those previously made in that the bondholders, instead of receiving a fixed interest, would be paid a reduced interest guaranteed by a syndicate but would retain their previous position as bondholders. The pourparlers were going steadily forward and there was a possibility that holders of obligations would be repaid at par or 25% premium. He therefore asked for a week's postponement.</p> <p>The President replied that since the 19th September matters had remained in stats quo and he would therefore grant not a week but a fortnight--for positively the last time--but if matters should then have made no progress the situation of the Sucreries would have to be put before the Courts.</p>
+                    <p>Me. Carton de Wiart expressed his readiness to satisfy the President, end then came another development M. Dienzeda, a workman under the company, who had been injured in an accident, had been a year in the French hospital and had never seen his pay since December 5, 1904. Me. Martino spoke on his behalf and touched on the Cronier bills, asking whether the bills had been given to cover the current accounts that M. Cronier may have had in different banks, whether those produced were renewals or had they been regularly discounted since the date of their endorsement, and in that case what was the rate of discount?</p>
+                    <p>Me. Carton de Wiart replied that the causes of M. Drenzede's accident were uncertain; as far as his pay went the company was ready-to pay after verification of the claim Me. Padoa Bey remarked that the Martino clients had no right re intervene for the discussion of the validity of the claims put in by the creditors : which led the President to observe that creditors and shareholders were alike interested in bills representing 20,000,COO frs.</p> <p>More explanations and discussions followed. The Oases of M. Dienzde and of M. Mariotti, an employe in a like condition, were to go before the  competent court, so Judge Jack decided, and after Professor Sampaolo had handed into Court a number of verifications, proceedings closed till the next and positively the last meeting.</p>
+                </div>
+                <div type="item">
+                    <head>PERSONAL AND SOCIAL.</head>
+                    <p>Mr. Astley Johnston and his 24 h.-p Charron car have arrived at the Ghezireh Palace Hotel.</p>
+                    <p>Major Le Breton has left for England.</p>
+                    <p>Judge H W. Halton, of Cairo, is staying at Mena House Hotel.</p>
+                    <p>Capt. D. Parson end Capt Blackenridge are staying at Mena House Hotel for a few days.</p>
+                    <p>There was a fashionable gathering at the Savory Hotel on Saturday evening, the Hon. F.
+                        G. Morgan having arranged for a small sauterie to entertain his numerous friends. Dancing took place in the Salle des Fetes, which had been nicely arranged for the occasion. The music was furnished by the bend of the Rifles. Amongst those present were : M. Van dor Does de Villebois. Mme end Miles de Villebois, Mrs. von Moh, Thurneyssen Paths, Mr. end Mrs Satow Capt. end Mre. MoLean, Col. end Mrs. J K. Watson, Mrs. end Miss Johnson, Mr. Carter Wilson, Capt. end Mrs. Lyons, Mr. Mitchell lona Capt. Protheroe Smite, Major Palmer. McMurdo Tasha, M. Gennadis, Capt. and Mrs. Blakeney, Capt Hall, etc. A midnight sapper was served, at small tables in the restaurant, after which dancing was resumed and continued until late.</p>
+                    <p>Mr. H. Carter Wilson entertained a number of friends to dinner at the Savoy Restaurant on Saturday evening, the guests including Capt the Hon. and Mrs. Cuthbert James, Mr. end Mr*. Satow, and Capt. McMurdo.</p>
+                    <p>At another table we noticed M. de Para-vicini and a party of 3. Sir Charles Scotter had at his table Mrs. Fred. Scotter, M-Ostberg, Cept and Mrs.
+                        Hall. Cept Wilson had a party of 10, including Col. Magill, Col. Todd, Major and Mrs. Hardy, Rev. H. Wilson and Major Stamstreet.
+                        Mr Alfred Murphey had a party of 8, etc.</p>
+                </div>
+                <div type="item">
+                    <p>EDEN PALACE HOTEL,</p>
+                    <p>CAIRO.</p>
+                    <p>NOTED FOR ITS EXCELLENT CUISINE</p>
+                    <p>ELECTRIC LIGHT. LIFT.</p>
+                    <p>Special terms for officers of the Army of Occupations and Government officials</p>
+                </div>
+            </div>
+            <div type="page" n="4"><div type="item">
+                <head>THE EGYPTIAN GAZETTE, MONDAY, DECEMBER ll, 1905</head>
+            </div>
+                <div type="item">
+                    <head>RUINS OF ANCIENT EGYPTIAN CITY.</head>
+                    <head>EXCAVATIONS HAVE MADE POSSIBLE AN ACCURATE PICTURE of El Amarna.</head>
+                    <head>HISTORY OF ITS FOUNDING</head>
+                    <p>Twelve years ago, on a lovely spring morning, I was walking along the east bank of the Nile, near to the village of Hadji Qandil some 180 miles above Cairo. The land around was a wide amphitheatre of sand some twelve miles across, shut in by the Arabian hills, and almost, except near the river, an arid expanse of sand. There was an awakening of life ; pigeons rose from the beanfields in hundreds and a belated gazelle stole up from the watering place and made swiftly for the hills. Lumbering buffaloes were being fastened to the water wheels, and the women were around the wells. Away from the river all was still and silent. Once, however, that sandy plain was all alive with busy men and women. Where low heaps of sand break the monotony of the plain there once stood a splendid temple and a royal palace, while the houses of priests and officials, together with shops and bazaars, formed a busy city. Though little remains of this once beautiful place there are, fortunately, preserved monuments by which we are enabled to reconstruct the town and the life of the king and its people in a wonderful manner. The Arabian hills form the wall of this circus, and the sides of these are the site of many splendid tombs of the city officials. It is no ordinary city we have to deal with ; unique in its origin, history and religion. It forms the record of a remarkable episode in Oriental history and the memorial of the dominant will and power of one of the most astonishing women of the East.</p>
+                    <p>ORIGIN OF THE CITY.</p>
+                    <p>The recovery and publication of the material from which to restore the picture is due to the work of Mr. N. de G. Davies, who has for many months been engaged in copying the sculptures and inscriptions in these great tombs, which have now been published by the Egypt Exploration Fund. Before describing these splendid sculptures a word must be said as to the origin of this city. Amenophis III. (B. C. 1500) had during his reign married a member of Asiatic wives, among them being Tii, apparently a princess of Mitanni or northern Mesopotamia.</p>
+                    <p>The foreign element in the Theban royal harem became so powerful that a religious revolution broke out, and an attempt, for a time successful, was made to replace the great worship of Amen Ra, king of the gods, by that of the Aten, or “Solar Disk.’’ For a time only was it powerful in Thebes, and on the accession of the youthful ruler Amenophis IV , who was rigidly under the control of his imperious mother, the position became so serious that the king and court removed from Thebes to a new city which was built upon this plain of El Amarna. The idea of this abandonment of the southern capital originated with the queen mother, and that she took an active part in the work is shown by her name being inscribed, with all her titles, upon the central pillar of the great quarry from which the stone for the royal and sacred edifices was obtained.</p>
+                    <p>The priest of the tombs was that Mery-Ra who was the high priest of the Atendisk in the city of Akh Aten, ''The glory of the disk.” He was also “fan bearer on the king’s right hand," “royal chancellor,’’ “A sole companion or privy councillor.” On entering the stately portion of the tomb and passing into the columned entrance hall, we see at once we have a quite different class of burial place to those which are found near Thebes. The tombs of Mery R of Paneshey are, we find on entering, veritable rock-cut mansions consisting of several stately halls and chambers. Still more marked is the difference in the lavish mural decorations. The walls are not covered with weird scenes from the Books of the Dead or the underworld, nor do they depict scenes in the domestic life of the departed. Each tomb, from its decorations might be a royal tomb. The king and his family dominate everything. As Mr. Davies remarks : "His wife and children, his family affection, are here portrayed in detail,” and it is difficult to discover the official whose tomb it is.</p>
+                    <p>In the tomb of Mery-Ra we have a picture of the house where the king visits him, and it must have been a beautiful abode. Before the entrance was a large tank, surrounded by trees. There are many courts and cool colonnades, while a picturesque garden full of flowers and shady trees, and another large tank, beside which the owner and his family might enjoy the pleasures of home life in the evenings. In the tomb of Paneshi we have a representation of the temple of the Aten, and full details of the service. It differs from the Theban temple in many respects.</p>
+                    <p>THE ROYAL FAMILY.</p>
+                    <p>The offerings were fruit and flowers ; oxen were led to the temple wreathed and decorated with flowers, and the king and the queen and the young princesses came to worship, bringing offerings of flowers, incense and sweet smelling gums. Indeed, it is remarkable how great a part the beauties of nature form in the temple service. The most striking feature, however of these tableaux is the freedom of life, and the way in which the royal family mingled with the people. Seated on the balcony of the palace we see the king with his arm round the neck of the queen throwing down presents of collars and ornaments to the crowd below, or often holding the hand of one of the little princesses and throwing bunches of flowers to the children in the street. One group of dancing children in pleated skirts seems almost modern in its realism.
+                        Very touching is one scene depicting a choir of blind men performing before the king. Led by a harper and a leader who keeps time by clapping his hands, these poor sightless men seem to be singing the praises of the bright god of light, whose rays they cannot see. The execution of the work is wonderful, considering its antiquity. In other sculptures we see the king and queen driving across the plain in their chariots, preceded by running footmen.</p>
+                    <p>Throughout the whole of this gallery of ancient pictures we strike no sad note. The shadow of death, ever present in the tombs of the Memphic and Theban age, is banished ; all is love and joy and pleasure of life. The period is a unique one in ancient history, and finds its modern parallel in the life of the French court at Versailles. But the life was a short one. The king died and was buried in a great tomb in the hills, and there was no direct heir to the throne. During this life of pleasure the affairs of State had been neglected, the great conquests in Syria and in Nubia were slipping from the hands of this effeminate Pharaoh, and it was not until the Theban power once more regained its supremacy that Egypt became the ruler of the ancient world. Still, however, the epoch is full of matter  of interest to the historian and the archaeologist, and these beautiful reproductions will long form the standard authority upon so interesting an episode in the ever changing panorama of Egyptian history. With the fall of the heretic line the city was abandoned, and the sand of the desert spread its veil over this ancient city of beauty and pleasure.	</p>
+                </div>
+                <div type="item">
+                    <head>VISITORS LISTS</head>
+                    <head>CATARACT HOTEL, ASSOUAN.</head>
+                    <p>Mr. and Mrs. Pembroke, London; Sir Stephen Mackenzie, Scotland ; Mrs. and Miss Dotti, Germany ; Mr. and Mrs. Worthington, Mr. R. Worthington, Miss Knight, Mr and Mrs. Brand, Miss Brand, Mrs. Stephen, England ; Mrs. Schwerin, Mr. Schwerin jun., Mr. G. Kritzler, Germany; Mrs. H. Walsham How, Mr. How jun., Yorkshire ; Miss E. Harrison, Miss J. Green, London; Dr. S. Gotts-chalk, Berlin ; Mr. O. Marshall, London ; Mr, Teston, Paris; Mrs. Allison Low, Mr. Mackenzie Low, Mr. and Mrs. John L Low, Scotland ; Mr. and Mrs. F. Scorer, England ; Mrs. A. Boehm, Mr. A. A. Boehm, Miss Kroner, New York ; Mrs. Pease, Miss Bewley, England; Mrs. Socolis, Mr. Raphel, Cairo; Mr. R. N. M. Bailey, England ; Baroness von Sprewitz, Miss Gulich, Mr. C. Blumhard, Germany; Miss Catherine de Komar, Miss Anna de Komar, Poland; Miss Williams, Mr. P. W. Early, Mr. A. M. Cohen, England ; Miss Joan Crewe, Lt. Col. Mackay, Mr. C. C. Macaulay, Mr. H. Forster, Vice Admiral H. C. Kane, Miss T. E. Kane, England ; Miss Alice Methley, London; Miss H. A. Simpson, London; Misses Rogers, South Africa; Miss D’Au-brey, South Africa; Mr. J. Sloane, U.S.A. ; Mr. Pierpont V. Davis, U.S.A.; Mr. and Mrs. Jno F. Finn, San Francisco ; Dr M. L. Neylon, England; Mrs Stewart Smith, England ; Mr. Max Scull, Paris ; Mr. and Mrs. E. La Roche, Bale ; Miss Ehinger, Bale ; Mr. G. Sheath, London ; Mrs. Heawarth von Bittenfeld, Berlin ; Mr. von Bittenfeld, Berlin ; Mr. T. Roche, Lausanne; Mr. F. John Ker, Cairo ; Mr. J. E. W. Boyes, Cairo; Mr. R. H. Duke, Cairo; Mr. and Mrs. Beresford, England; Miss Beresford, England ; Miss F. A Taylor, England ; Mr. and Mrs. W. H. Dunlop, Scot-land; Miss Dunlop, Scotland; Miss Neal, Scotland.</p>
+                </div>
+                <div type="item">
+                    <head>CAIRO SEASON FIXTURES</head>
+                    <p>The following is a list of proposed events for the forthcoming Cairo Season :—</p> 
+                    <p>December.</p>
+                    <p>18th Monday and 19th Tuesday. } Examination of Officers.</p> 
+                    <p>20th Wednesday. First Winter Race Meeting.</p> 
+                    <p>22nd Friday. First Winter Race Meeting.</p> 
+                    <p>January.</p>	
+                    <p>8th Monday. Anniversary of Accession of H.H. the Khedive. Review of Troops.</p>
+                    <p> 12th Friday. Skye Meeting.</p>
+                    <p> 24th Wednesday. 2nd Winter Race Meeting.</p> 
+                    <p>26th Friday. 2nd Winter Race Meeting.</p> 
+                    <p>30th Tuesday. Sports Preliminary.</p>
+                    <p> 31st Wednesday. Sports and Tournament.</p> 
+                    <p>February,</p>
+                    <p>1st Thursday. Field Day.</p>
+                    <p>8th Thursday. Field Day.</p>
+                    <p>12th Monday to 15th Thursday. } Rifle Meeting.</p>
+                    <p>16th Friday. Horse Show.</p>
+                    <p>21st Wednesday. 3rd Winter Race Meeting.</p> 
+                    <p>22nd Thursday. Field Day.</p>
+                    <p>23rd Friday. 3rd Winter Race Meeting.</p> 
+                    <p>March.</p>
+                    <p>9th Friday.	Gymkhana.</p>
+                    <p>12th Monday to 20th Tuesday. } Manoeuvres.</p>
+                    <p>24th Saturday and 25th Sunday. } Horticultual Show.</p> 
+                    <p>April,</p>
+                    <p>First week.	E. A. Military Tournament</p>
+                    <p>Last week. 	Military Schools Sports.</p>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>Brass Door Plates</head>
+                </div>
+                <div type="item">
+                    <head>LETTERS T0 THE EDITOR.</head>
+                        <p>We do not hold ourselves responsible for the opinions expressed by our correspondents, but we whish, in a spirit of fair play to all, to permit -- within certain necessary limits -- free discussion.</p>
+                </div>
+                    <div type="item"><head>THE NEW CABINET.</head>
+                        <p>To THE Editor OF THE Egyptian Gazette.</p>
+                        <p>Dear Sir,—I noted the forecast you made of the new Liberal Cabinet. I am glad to see by to-day's news that you are likely to be wrong. Sir Henry Campbell-Bannerman is keeping the men of the stamp of Lord Rosebery, Sir Edward Grey, Mr. Asquith, and the like out of his Cabinet. The last-named is especially odious to the Labour party, among whom he is known as “butcher Asquith,” and Sir Henry cannot dispense with the aid of the Labour members, who are likely to be more numerous in the next Parliament. It would be wisest in my opinion for Sir Henry Campbell-Bannerman to make a composite Cabinet of Liberals—earnest and thorough, not weak-kneed like the three above-named—Labour members, and a sprinkling of Irish Home Rulers. These last would participate, I believe, if Irish Home Rule is placed in the foremost rank in the programme. The Cabinet would then be for the first time in English history one composed of all classes in the United Kingdom, not limited as heretofore to one class and excluding men who represent Irish ideas and sentiments. With a Cabinet like that, the new Premier can face the Elections with a sure hope of an overwhelming victory. He will then be able to deal boldly and fearlessly—as he expressed it at Stirling—with every social problem, and if the House of Lords try their tactics of obstruction they will do so at their peril.—Yours truly, 	J. Amigo.</p>
+                        <p>Port Said, Dec. 9.</p></div>
+                    <div type="item"><head>CRUSADE AGAINST MOSQUITOES.</head>
+                    <p>To the Editor of the Egyptian Gazette.</p>
+                    <p>Sir,—It is sincerely to be hoped that the sensible suggestions contained in Mr. Thorwald Smith’s letter in yesterday’s ( Thursday ) “Egyptian Gazette” will be acted up to by the proper authorities, for there is no doubt that the death rate of Egypt is largely due to these moat pestiferous creatures. The success of the authorities at New Orleans in fighting the epidemic of yellow fever now prevailing in that city illustrates forcibly the old and new methods of controlling this scourge. In the country we have the old-fashioned "shot-gun" quarantine in full operation, but in the city the latest methods of sanitary science are taught and enforced. On the former we read Such reports as the following: —“The Governor has directed the Commander of the State Guard to detail as many men as might be necessary to act as guards on all trains entering the State and at all points where boats run in order to establish a strict trade quarantine against all points where yellow fever is found to exist.” It is reported that the State of Mississippi has five armed boats patrolling the coast to prevent fishermen breaking through the quarantine lines, and armed guards patrol the lines of railroads entering the State. On the other hand the health officer of New Orleans has issued the following sensible advice and information “The spread of yellow fever is easily controlled by the application of very simple rules. Whether or not New Orleans will be rid of yellow fever at an early date depends in a very large measure on the degree of assistance each householder is willing to contribute to the work of eradication. Yellow fever is transmitted by the bite of a mosquito whose breeding places are cisterns, water barrels, and similar collections of water. The mosquito bites in the daytime usually, and in order to become infectious must bite a patient daring the first three days of the fever, and then ten days must elapse before it is capable of transmitting the disease. Mosquitoes are not dangerous after the third day of the fever. Therefore protect from mosquitoes, day and night, all cases of fever for three days and then destroy before the tenth day after the beginning of the illness the mosquitoes that are in the room." The mayor has issued a proclamation, approved by the State Board and the United States Public Health Service which requires all citizens to allow no stagnant water on their premises ; to screen all cisterns after treating the surface with oil; to place oil in cesspools and privy vaults ; to sleep under nets; and to screen doors and windows. The Egyptian Sanitary Department ought to issue similar instructions, for not one in a thousand of the people know how dangerous the mosquito is to health.—I am. etc,</p>
+                    <p>Hippocrates.</p>
+                    <p>Cairo, December 8.</p></div>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>CALVERT'S CARBOLIC TOOTH POWDER</head>
+                </div>
+                <div type="item">
+                    <head>Chemins de Fer et Telegraphes de l’Etat Egyptien</head>
+                    <head type="sub">AVIS</head>
+                        <p>L’Administration a l'honneur d’informer le public qu’elle recevra jusqu'au 20 février 1906 à midi, des offres pour 1'achat du matériel roulant et pièces de rechange, provenant du Tramway à vapeur de Port-Said à Ismsailia, suivant le Chaier des charges avec nomencla ture, dont on peut obtenir un exemplaire au Service Central des Magasins à Boulac (Caire) et aux Magasins de Gabbary (Alexandrie) contre paiement de 200 mill.</p>
+                        <p>Le matériel en question est concentrés à Rassowa, près de Port-Said, où il peut être examiné.</p>
+                        <p>Les sonmissionnaires devront joindre à leur effre, un cautionuement provisoire ègal aux cinq pour cent (5 %) du montant de leur offre.</p>
+                        <p>Les offres devront être accompaguées d’une feuille de papier timbré de 30 m/m. Elies seront adressées par la poste, sous pli rcom-mandé à :</p>
+                        <p>Monsieur le Directeur Général,</p>
+                        <p>Chemins de fer de I’Etat,</p> 
+                        <p>Caire.</p>
+                        <p>et sous double enveloppe, l’intérieure portant la susscription suivante :</p>
+                        <p>“Offre pour l'achat du matériel roulant de la ligne de Port Said."</p>
+                        <p>L'Administration ne s’engage pas à accepter Poffre la plus élevée, ni à donner suite aux soumissions présentées et elle se réserve le droit de diviser la vents.</p>
+                        <p>Le Caire, le 6-12.05.</p>	<p>2688 -1</p>
+                </div>
+                    <div type="item"><head type="sub">A V I S</head>
+                        <p>La Direction Générale des Chemins de fer de l’Etat et des Télégraphes recommande, qu'en vue d'éviter des pertes de temps, toutes les correspondences officielles pour les fonctionnaires de cette Administration leur soient adre-sées à leur Bureaux respectifs et non pas à leur domicile privé d’ou ils peuvent souvent se trouver absents pour de longues périodes, par suite de leurs fonctions officielles.</p>
+                        <p>Le Caire, le 9 Décembre 1905.</p>	<p>26894-1</p></div>
+                   <div type="item"> <head type="sub">A V I S</head>
+                    <p>Il est donné avis que le concours qui de ait avoir lieu an Service Central de la Voie et des Travaux au Caire le lundi 11 Décembre 1905 à 3 h. p.m. pour un poste de rédacteur au dit Bureau, est renvoyé au lundi 13 Décembre à la meme heure.	</p>
+                    <p>Le poste mis au concours figure sur le cadre du personnel permanent, et donne droit à la pension et les appointements minimum afférents à ce poste seront de LE 18 par mois (an lieu de LE 16 comme il avait été publié en premier lieu).</p>
+                    <p>Les candidats devront bien connaitre l’an-glais et l’arabe. La préférence sera toutefois donuée à eux qui connaltrant aussi le francais.</p>
+                    <p>Les demandes devront étre adressées à Monsieur l'Ingénieur en chef de la Voie et des Travaux au Caire, à qui elles devront parvenir au plus tard samedi 16 Décembre 1905.</p>
+                    <p>Elles devront etre accompagnées des dooo-ments suivantes :</p>
+                    <p>1) Certificat de bonne vie et moeurs signé par une autorité reconnue.</p>
+                    <p>2) Certificat de nationalité égyptienne.</p> <p>3) Certificat d'études secondaires délivré par le Gouvernement Egyptien.</p>
+                    <p>Le candidat choisi au concours sera nommé au poste en question, s’il est reconnu physiquement apte à remplir ce poste.</p>
+                    <p>Les candidats qui remplissent les conditions requises et qui ont déjà adressé leur demande, seront admis à concourir le 18 Décèmbre 1905.</p> 
+                    <p>Le Caire, le 9 Décembre 1905.</p>	<p>25893-5-1</p></div>
+                <div type="item">
+                    <head>MUNICIPALITE D’ALEXANDRIE</head>
+                    <head>SERVICES SANITAIRES</head>
+                    <head>AVIS</head>
+                    <p>Le public est inform^ qo’k psrtir de oe jobr l’intardiotion spportfie aa cOodmstoe doe cbif-f«ns, en vertn de Part. 21 ‘de l’afrfite da 19 janvier 1898, csf levee</p>
+                    <p>L’AMinistrateur,</p>
+                    <p>W. P. Chataway.</p>
+                    <p>Alexandrie. le 7 Decemhre 1905.</p> <p>26879-3-3</p>
+                </div>
+                <div type="item">
+                    <head>Alexandria Water Company, Limited</head>
+                    <head>VISITE AUX NOUVEAUX FILTRES.</head>
+                    <p>En vue des nombreasee demmdes feites k la Compagnie par d,*s persdnnes derirant visiter fes nonveanx Pil'tres, le Conseil d’Administration a dficide de mottre k la dispiwtiOdcjeMM. lea Aoti 'nnsires et Abonces de la Coidpagnir des cartes ^’admission poor visiter ses files 4 son Usine de la Porte Rusafte,' pendant une sem-ine. k, partir da 14 jdsqn’aa 81 otbrtn^ eitre les he urea de 2 et 5 p.m.</p>
+                    <p>MM. les Aetionnairee on Abends de la Com pignie qni ddiireraient visiter les Filtres, pen-vent se proonrar des oartes d’admisiion en s'adrevant anx bureanx de 1-t Compagnie N. / Boulevard de Ramleh. Ces cutes seront aooom\ pagodes d’une deco-ip’ioo sneointe des filtres afin de permettre anx visitenrs d'eo oompren dre le fonotioanement</p>
+                    <p>Par orckre dn Conseil d’Administration,</p> 
+                    <p>l'Administrateur-Directeur,</p> 
+                    <p>26.900-3-1</p>	<p>J. E. Cornish.</p>
+                </div>
+                <div type="item">
+                    <head>NOTICE</head>
+                    <p>Merchants, Tradesmen and others in Cairo wishing to do business with British firms are requested to send their names, addresses and particulars of their businesses to Mr. Peter Black, "The Commercial Bureau," P.O. Box No. 50, Cairo.</p>
+                    <p>2671x-x-x</p>
+                </div>
+                <div type="item">
+                    <head>Egyptian Trust and Investment, Limited.</head>
+                    <head>NOTICE.</head>
+                    <p>The Directors of the Egyptian Trust and Investment Ltd. beg to notify to the shareholders that it has been decided to make a further call of 5% per share, thus making the shares 10% per share called up.</p>
+                    <p>Payments will be received at the Anglo-Egyptian Bank, Ltd., Alexandria, and Cairo on and from the 14th December until the 31st December 1905 after which date an interest of 7 % will be charged.</p>
+                    <p>Shareholders are particularly requested to note that payments will only be received at the Bank on presentation of the call letter and the Nominative Certificate.</p>	 
+                    <p>Alexandria, 11th December, 1905.</p> 
+                </div>
+                <div type="item">
+                    <head>Egyptian Trust and Investment Limited.</head>
+                    <head>AVIS</head>  
+                    <p>La Direction Générale de l'Egyptian Trust and Investment Limited a Photinear de prfivenir Messienrs lei Action nairas que le Conseil d'Administration vient de decider de fairs an appel de 6/- par action de telle aorta qne ; las notions seront libfirbes de 10/-</p>
+                    <p>Lei paiements devront s’effeotoer k PAnglo i Bgyptian Ba-k Ltd. AU-xandrie ot Le Caire d partir W H 'dJcembre et jusqu’au 31 dfeem I bre 1965 ; aptks cotte date les retardataixes : seront passibles d’nn in Writ de 7 %.</p> 
+                    <p>Messienrs les Aotionnairas sont pribs de prendre note que les paiements d la Banque . ne seront rtftu que sur presentation de la lettre dappel it du Certificat Nominatifi</p> 
+                    <p>Aiexauurie le tl Dbcembre !9o5.</p> <p>2o899-3</p>
+                </div>
+                <div type="item">
+                    <head>Societe Anonyme du Behera</head>
+                    <head>AVIS</head>
+                    <p>Messienrs les portenra d’aotions ordinaire* sont inform** qn’ane distribatun de LB. 8 (troi«) pat auticrn ordinaire sera fatto k L Bauq'ue Impbriale 0‘ctomaue k Alexandrie k partir de Mardi 12 Conrant, oontre prbsenta-tion dn ooupon No. 8 des sasdlte* aotioas, en complbment da dividend* ex rnordia«ire de LK 5 votb par l’Aisemblb« Gbnbral* Extraordinaire des aotionnairas tonne le 21 Jain l9i>5.</p>
+                    <p>L' Administrates-Directeur</p> <p>(Signé) E. W. FOSTER</p>
+                    <p>Alexandrie, le 9 Décemhre 1905.</p> <p>26889-8-2</p>
+                </div>
+                <div type="item">
+                    <head>Societe Internationale des Employes</head>
+                    <head>D'ALEXANDRIE</head> 
+                    <head>Siége Social Rue Mosquée Attarine No. 21</head> 
+                    <head>BUREAU De PLACEMENT</head> 
+                    <p>Offres</p>
+                    <p>Une maison de Nonveaatbs (importante) demande un employé pour la vente.</p>
+                    <p>Un jeone homme bffrant de bonnes rbfbrui oeiet one garkntie de £1000 -demande ua em[9 d’enoaissinr ouda.caiasier.</p>
+                    <p>Un oomptable oonnaissaqi le fran^xis et Pallemani ohercbe nn employ</p> 
+                    <p>Uns maison de noaveentbs aa Caire demaudj deux demoiselles emphqrbes.</p>
+                    <p>Uoe maisoa de vente. demande no jeune em ployb, ayant nn an ds .oommeroe.</p>
+                    <p>Un oomptable pouvant tonir la oomptabilitb-en franfxu et en arebe oberohe tn .emptoi</p>
+                    <p>Ua employ* disputant de deax. henres par jonr, demande kr tonir ana jwtita- comp-tabiUtb.</p>
+                    <p>Young Gentleman knowing English, French,r . Arabic, Book-keeping in Bagiisb and Arabia, Typewriting, wall experienced inoommer Dial affaire, requires a suitable situation. Highest refereuoes.</p>	
+                    <p>N.B.— Poor tons renseignementa a’adresser aa Sifige Social de la Sooibtb, Rue Mosqnbe Attarine No. 21.</p>
+                    <p>Le Seorbtariat est onvert les LnncC.-Mtreredi et Vendredi de 7 h. 1/2 k 8 h. 1/2 dn soir.</p>
+                    <p>Les insertions cd-deesua sont faites gratnite-ment par les soins de la Sooibtb etseolt las sooibtaires'peuventen bbnbfioier.</p>
+                    <p>Les penonnes qni font des offres on das daman dee sont pribes de joindre nn timbre k lenr.lettre, sinoti.il ne lenr sen fixit aucuns rbponse.</p>	
+                    <p>Nooseroyona ntile de fixire remerquer qua pour fitre admis dans re Sari* A, les employbs doivent :</p>	
+                    <p>1.	Avoir trkvaiHb in moms 8 mrik k Alexandrie ;</p>
+                    <p>2.	Joair anas bonnerbpatRtian;</p>
+                    <p>3. Btre mania de bona oertifioau.</p>
+                    <p>25735—7-4-906</p>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>CARLTON HOTEL</head>
+                    <p>Bulkeley (near Alexandria)</p>
+                    <p>RAMLEH'S FASHIONABLE HOTEL.</p>
+                    <p>Patronized by the elite.</p>
+                    <p>Full Pension from P.T. xx a day. Visitors from Cairo alight at Sidi
+                        Gaber Station.</p>
+                    <p>xxxxx-xx-x-905</p>
+                    <p>G. AQUILINA, Proprieter.</p>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>WATERLOW BROS. AND LAYTON,</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>ROME</head>
+                    <head>GRAND HOTEL EXCELSIOR</head>
+                </div>
+                <div type="item" scope="advertisement">
+                    <head>N. SPATHIS</head>
+                    <p>THE BRITISH AERATED &amp; MINERAL WATER MANUFACTORY. </p>
+                    <p>CAIRO Exbekieh ALEXANDRIA Rue Avernoff</p>
+                    <p>Soda Water. Lemonade, Ginger Ale, Ginger Beer. Tonic Water </p>
+                    <p>Pomegranade, Orangeaade, Pineapple, Champagne, Cider, etc., etc. </p>
+                    <p> Water guaranteed by Chamberlain’s Filter (Pasteur’s System).</p>
+                    <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for use.</p>
+                    <p> Sole Agents in Egypt and Soudan for </p>
+                    <p> J. Calvet &amp; Co. Bordeaux. Wine &amp; Cognacs.</p>
+                    <p>Louis Roederer. Rheims. Champagnes.</p>
+                    <p>August Engel. Wiesbaden. Rhine and Moselle Wines.</p>
+                    <p>Mackie &amp; Co. Glasgow. Lagavulin, White Horse Cellar &amp; other Whiskies.</p>
+                    <p>Dunville &amp; Co, Ltd. Belfast. Old Irish Whiskies.</p>
+                    <p>Wm. Lanahan &amp; Son. Baltimore. Monongshels XXXX Whiskey.</p>
+                    <p>The Cook &amp; Bernheimer Co. New York. Old Valley Whiskey and Gold Lion
+                        Cocktails.</p>
+                    <p>Stone &amp; Son. London. Guinness' Stout &amp; Bass' Pale Ale.</p>
+                    <p>Freund Ballor &amp; Co. Tornio. Vermouth.</p>
+                    <p>Pierre Bisset. Cette. Vermouth &amp; Aperitives.</p>
+                    <p>Terrabonatea Company, Ld. Teas.</p>
+                    <p>Depot for Prince Metternich's "Richardsquelle," the best mineral table water in
+                        the world.</p>
+                    <p>Great assortment of Wines, Spirits, Liqueurs, of the finest Brands, etc</p> 
+                </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
