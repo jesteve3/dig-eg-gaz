@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/dig-eg-gaz/resources/master/egSchema.rnc" type="application/relax-ng-compact-syntax"
+?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title level="m" type="main">Egyptian Gazette</title>
+                <title level="m" type="sub">An encoded transcription</title>
+                <editor>Your name</editor>
+                <principal>Will Hanley</principal>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date when="2016-09-19">Enter today's date</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>FSU University Libraries</publisher>
+                <pubPlace>Tallahassee, FL</pubPlace>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title>Egyptian Gazette</title>
+                    <date when="1905-01-01">Enter issue date</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="page" n="1">
+                <head>THE EGYPTIAN GAZETTE</head>
+                <head type="sub">No. 7239] ALEXANDRIA, THURSDAY, JULY 13, 1905. [SIX PAGES P.T.
+                    1.
+                </head>
+                <div type="section" scope="advertisement"> 
+                </div>
+            </div>
+            <div type="page" n="2"> </div>
+            <div type="page" n="3">
+                <div type="item">
+                <head>THE EGYPTIAN GAZETTE, TUESDAY, DECEMBER 12, 1905.</head>
+            </div>
+                <div type="item">
+                    <head>THE NEW CABINET.</head>
+                    <head>"GOOD AND CAPABLE.”</head>
+                    <head>MR. BALFOUR INDISPOSED</head>
+                    <p>(Gazette's Special Service).</p>
+                    <p>London, Monday. Dec. 11.</p>
+                    <p>The composition of the new Ministry is generally held in political circles to be a clever one, and especially good for election purposes. The presence of Sir Edward Grey, Lord Crewe, and Mr. Haldane will afford security of a programme of moderate and wise reform. Lord Rosebery has been quite isolated. The new Lord Chamberlain will be Earl Spencer's bro-ther, the Rt. Hon. R. C. Spencer, who will receive a peerage.</p>
+                    <p>London, December 11</p>
+                    <p>It is agreed on all sides that Sir Henry Campbell Bannerman has enlisted the Cabinet from the strongest members of the party, with the exception of Lord Rosebery. Even Unionists admit that it is good and capable.</p>
+                    <p>The Ministers will hold the first meeting of the Cabinet in a few days in order to fix the date of the elections. Mr. Balfour is indisposed. His sleep is troubled by internal pains.</p>	<p>(Reuter)</p>
+                    <p>London, December 11.</p>
+                    <p>The new Ministers have all taken possession of their portfolios, Mr. George Whiteley has been appointed Chief Government Whip.</p> <p>(R.)</p>
+                </div>
+                <div type="item">
+                    <head>SPEECH BY LORD ROSEBERY.</head>
+                    <p>London, December 11.</p>
+                    <p>Presiding at the Council of the Liberal League, Lord Rosebery congratulated Sir Henry Campbell-Bannerman upon having obtained the reward of strenuous hard work. He said that we might now expect financial economy and a strong, dignified foreign policy, and might hope to see an army once more. Nobody outside a lunatic asylum believed that Home Rule would be introduced during the next parliament. It was the duty of the Government to maintain the unity of the Free Trade parly, but they must be entirely independent of the Irish vote.</p> <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>MUTINY OF MANCHURIAN ARMY.</head>
+                    <p>London, December 11</p>
+                    <p>The “Daily Telegraph” learns from Tokio that the Russian army in Manchuria has mutinied, and, joining the Chonnchuses, has sacked Harbin, and burned the railway station and the wheat and flour storehouses. Many innocent persons have been massacred. A fierce battle is raging between the loyal troops and the mutineers.</p>	<p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>MUTINY OF WARSAW GARRISON.</head>
+                    <p>Warsaw, December 11.</p>
+                    <p>A hundred soldiers headed a revolutionary procession and an infantry regiment barred the way. The officer in command ordered his men to fire on the procession, but the regiment refused. The officer fled. It is reported that the whole garrison has mutinied.</p> <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>COUNT WITTE A REACTIONARY.</head>
+                    <p>St. Petersburg, December 11.</p>
+                    <p>Count Witte, realising the impossibility of a compromise, has completely gone over to the reactionary party.</p>	<p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>THE TSAR AND HIS COSSACKS.</head>
+                    <p>St. Petersburg. December 11.</p>
+                    <p>The Tsar, in an order of the day, warmly thanks all Cossacks for their untiring loyal services in maintaining order throughout the Empire.</p>
+                    <p>The commander of the fortress of Kushk has proclaimed martial law to prevent the spread of the revolutionary propaganda.</p>	<p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>GREEK CABINET CRISIS.</head>
+                    <p>Athens December 11.</p>
+                    <p>M. Bonffides, a Theotokist, has been elected president of the Chamber, defeating M. Roms, Ministerialist. The Cabinet will resign.</p> <p>(R.)</p>
+                    <p>Athens. December 11.</p>
+                    <p>The Chamber of Deputies has appointed M. Bonffides as president. The Cabinet will resign.</p>
+                    <p>(Havas)</p>
+                </div>
+                <div type="item">
+                    <head>THE POPE AND FRANCE.</head>
+                    <p>Rome, December 11.</p>
+                    <p>In his allocution at the Consistory, the Pope stated that be would speak on the question of the reparation of Church and State at the proper time.</p>	<p>(Havas)</p>
+                </div>
+                <div type="item">
+                    <head>SIR E. CASSEL MADE G C.M G.</head>
+                    <p>London, December 11.</p>
+                    <p>Sir Ernest Cassel has been promoted Knigbt Grand Cross of St Michael and St. George.</p>
+                    <p>(Reuter)</p>
+                </div>
+                <div type="item">
+                    <head>LOCAL AND GENERAL</head>
+                    <p>Red Sea Lighthouses.</p>
+                    <p>We have received a parcel of books from Mr. Karl Harold for the English keepers of the Red Sea lighthouses.</p>
+                    <p>Quarantine in Turkey.</p>
+                    <p>Owing to the recurrence of a case of plague' arrivals in Turkish ports from Alexandria are subjected to a medical examination.</p>
+                    <p>Cairo Commercial Assessors.</p>
+                    <p>The International Chamber of Commerce is engaged in revising the lists of the commercial assessors for the Cairo Mixed tribunals.</p>
+                    <p>A. S. C.</p>
+                    <p>We are asked by the clerk of the course to announce that the racecourse will be open for galloping to-morrow morning from 6 till 9.</p>
+                    <p>S. M. S. Stein:</p>
+                    <p>A number of the officers and cadets of the German training ship Stein went up to Cairo on Sunday and stopped at the Eden Palace
+                        Hotel.</p>
+                    <p>The S.S Sardinia.</p>
+                    <p>This steamer, having completed repairs, is now reloading a general cargo for Liverpool, and is expected to sail towards the end of this week.</p>
+                    <p>Small Danco.</p>
+                    <p>A small dance will be given at Mena House Hotel on Wednesday,commencing at 9 o’clock. An orchestra will perform during dinner, as well as for the dance.</p>
+                    <p>Bank of Abyssinia.</p>
+                    <p>Mr. McGillivray, Governor of the Faille of Abyssinia, and the other employes of the bank arrived at Djibouti on the 7th inst. and proceeded on their way to Harrar.</p>
+                    <p>"Il Tempo.”</p>
+                    <p>“Il Tempo,” an Italian newspaper, which is at present issued weekly, will, as from the beginning of January next, become a daily paper. The editor and proprietor is Sig. Flores-tano Quintavalle, whom we wish every success in his new venture.</p>
+                    <p>Khedivial Agricultural Society.</p>
+                    <p>The Khedivial Society of Agriculture has decided to appoint three new agents, two in Lower and one in Upper Egypt. A note has been forwarded to the Government requesting the necessary credits for the creation of these new posts.</p>
+                    <p>Salt and Soda Co.</p>
+                    <p>The sales of salt during the month of November produced L.E. 20,746.537; as against LE 23,126,220 in November, 1904 ; the total amount realised from January to November 1905 being L.E. 229 962.702 as compared to L.E. 229 816.587 during the eleven months of 1904.</p>
+                    <p>Charity Performance.</p>
+                    <p>On Sunday afternoon a charitable entertainment was given at the College des Freres, Koronfish, Cairo, under the auspices of M. de la Bouliniere, who was received by the "Marseillaise” on his arrival. The chief feature of the afternoon's performance was a four act drama entitled Alaff, or Le Martyr de la Siberie, a drama versified by Frere Roland of the College and played with remarkable success by the pupils. The orchestra, staging, and decorations were all admirable, and we are not surprised to hear that charity has profited by the success of the entertain-ment.</p>
+                </div>
+                <div type="item">
+                    <head>MERCHANT SEAMEN'S HOME.</head>
+                    <p>A concert of more than usual interest was given in the Merchant Seamen’s Home on Friday last. The piano secured by the exertions of the Woman’s Guild of St. Andrew’s Church was handed over and used for the first time. The presentation was to have been made by Mrs. Ross, of Gordon House the president of the Guild, but she was prevented from being present by a severe chill. Mr. Ross, however ably represented his wife, and congratulated the Woman’s Guild of the Church of Scotland upon the successful issue of their labours and the handsome appearance of the piano. Turning to the men he said that the ladies in every port had a warm heart towards the sailors, and as this piano would testify, Alexandria was no exception to the rule ; indeed the Guild of St Andrew’s Church had given a very substantial token of their regard for the sailors frequenting this port Calling upon Miss Swan to hand over the piano, he took the opportunity to express the hope that those who visited the Home would spend many happy nights in company with such a nice instrument. Miss Swan then formally handed over the piano in the name of the guild for use in the Seamen’s Home, and the Rev. Hugh P. Reid thanked her for the gift and hoped that there would be no discord but much harmony and enjoyment in the entertainments in which this instrument was to play a prominent part.
+                        It was a substantial sign of the church's interest in the men. He thereafter called upon Mrs. Munro to “ hansel ” the piano, which she did with a very sweet solo. The usual concert succeeded, and it proved a most interesting and enjoyable one. An indication of the interest in the occasion was given by the numbers who simply packed the ball, and who expressed their appreciation of the fare provided in no uncertain way. The following ladies and gentlemen kindly gave their services Mrs. Munro, Mrs. Reid, Miss Davies Messrs. Byrne. Elliott Goodrich and Thom.</p>
+                    <p>A vote of thanks to Mrs. Ross, who provided the tea, and to the artistes, brought a very pleasant evening to a close.</p>
+                    <p>The piano is in polished oak, has a handsome appearance  and a rich mellow tone, and was provided by Messrs. Paterson and Sons, of Glasgow.</p>
+                </div>
+                <div type="item">
+                    <head>SUNDAYS DISTURBANCE.</head>
+                    <head>PUBLIC FEELING REASSURED.</head>
+                    <p>We are glad to state that there has been no repetition of Sunday's disturbances in Alexandria, and the state of public feeling is becoming somewhat reassured. Everything tends to show that the riot if it may so be characterised, was a purely spontaneous ebullition of feeling, just as was the Hamamil affair of a few years ago. when the natives made a sudden and great disturbance owing to the murder of an Egyptian policeman by a low-class Italian. If the Greek had not accidentally injured the Arab on Sunday no disturbance would have oocurred. This was the spark which, coming as it did amidst the existing state of apprehension, inflamed the passions of the populace and led to what was really nothing more serious than “a storm in a teacup.”</p>
+                    <p>The state of public feeling throughout the city yesterday was still nervous, and last night a number of coffee-houses and tobacconists shops and other establishments, which are usually kept open until a late hour of the night were closed by 10 o'clock.</p>
+                    <p>Last night the dangerous quarter of the Hamamil, where the worst part of the distur-bances took place on Sunday afternoon, was patrolled by a large number of police. There was no disturbance.</p>
+                </div>
+                <div type="item">
+                    <head>THE PROVINCES.</head>
+                    <p>Cairo is reported to be quiet hot we regret to state-that matters in some of the provincial districts are not satisfactory, as the following statement from an Englishman, resident in the Behera province, in the neighbourhood of Damanhour, will prove. This correspondent gives us the following information :—</p>
+                    <p>It is most sincerely to be hoped that the authorities will send strict injunctions to the moudirs to warn omdehs to pacify the people. The wildest rumours are current It is currently believed by the natives hereabouts that the Army of Occupation has been withdrawn and they believe that a great uprising is to take place by order of the Saltan. They read or have read to them the exaggerated stories in the Arabic papers which make them believe that the European Powers have had to submit to the Porte solely out of fear of the might of the Saltan. The Macedonian Question is keenly discussed and it is believed that the Sultan has determined once and for all to free the Ottoman Dominions of European interference. A few weeks ago the native villagers always need to salute Europeans here. Now they pass by without so doing and with a scowl. Europeans are continually being insulted, by the native youths, and yesterday, while going from my esbeh to the Delta Light Railway station, the cry against the Christians was raised at me by the village boys. They cried out, "Go on. yon Christians, we will see the matter through.” Their elders stood by and never attempted to correct them.</p>
+                    <p>Reports of insults to Europeans are very frequent and I understand some Greeks close to Atfeh have been murdered. In Cairo and Alexandria the Europeans are safe, but in the villages the situation of the Christian population is very bad, for even if the moudirieh authorities had the will they would not have the requisite authority to put down any disturbance. I have noticed of late the significant increase in the amount of arms carried by the Bedouins. Youths belonging to that class of the population have of late began to go about with guns, while all the men are armed. As a matter of fact, I have seen boys about 8 years old with guns. The regulations as to bearing arms are laughed at and anybody can get back his gun from the police for a few piastres, for the police only make use of the rule that nobody but a ghaffir and the owner of an esbeh should be armed, to make a profit out of the inhabitants by seizing their guns for a few days and returning them on the payment of a small sum. The only way to overawe the people is to show them that the Army of Occupation is not a myth, and the G. 0. C. ought to order a route march at once through the villages. That would at least act as a temporary alleviation of the present unfortunate state of feeling.</p>
+                    <p>FEAR OF RENEWED DISTURBANCE</p>
+                    <p>It is commonly believed that there will be another disturbanoe on Sunday next, but this is very improbable, as the police have made numerous arrests among the disorderly elements of the population. On Sunday nearly 200 persons were arrested, and yesterday a similar number. Altogether up to midday to day fully 500 arrests had been made of persons who were known to have been con-cerned in the riot and of others who have used threatening language.</p>
+                    <p>PRECAUTIONARY MEASURE.</p>
+                    <p>As a precaution to prevent the arming of the populace the Alexandria City Police took measures to close all the shop of the gun smiths and dealers in weapons throughout the city. The demand for arms during the past fortnight has been very great, and both Europeans and natives have been purchasing revolvers, etc., in great numbers, so this step on the part of the police comes somewhat late in the day.</p>
+                    <p>The date of the reopening of the gunsmiths’ shops has not yet been determined on, but they may be opened to-morrow if the authorities are sufficiently assured that the panic has subsided.</p>
+                    <p>MR MARSDEN'S CONDITION.</p>
+                    <p>Mr. Marsden, the sub-manager of the Anglo-Egyptian Bank, is still confined to his house owing to the injuries received by him from the mob on Sunday afternoon, but we are glad to be able to state that his wound is
+                        progressing satisfactorily, and that he hopes to be quite convalescent in a few days’ time.</p>
+                    <p>AN INCIDENT.</p>
+                    <p>As an amusing instance of the extraordinary fear prevailing among a portion of the Europeans on Sunday we may mention that a number of Greek sailors threw themselves into the harbour in the afternoon in order to swim to their ships. As some of them were not good swimmers and became soon exhausted, they had to be rescued from a watery grave by natives.</p>
+                    <p>THE SAMANOUD AFFAIR.</p>
+                    <p>The originators of the unfortunate incident at Samanoud, about which such alarming and exaggerated reports were current have met with their deserts. Eight of the men have been condemned by the Mehallah Tribunal to ten months’ imprisonment each and eight to sixteen months' imprisonment</p>
+                    <p>THE NATIVE PRESS.</p>
+                    <p>The mildness of the observations of Musta-pha Pasha Kamel in "Al Lewa” is significant as in the judgement of many people it is considered that the articles of our Arabic contemporary have in a great measure contributed to inflame Moslem opinion. After briefly recounting the facts of Sunday’s riot he remarks:-- As regards this (the disturbance) we again request native and foreigners alike to avoid Any quarrel or dispute, because public relations can only improve by mutual harmony. Prudent people should be 'enjoined to urge upon the uneducated classes to abstain from any demonstrations.</p>
+                    <p>“Al Moayad” says :-- Our readers will notice that Europeans attach great importance to small incidents that occur in Egypt and that is why any disturbance is called a riot. It is their lack of confidence in the natives that creates this fear in their minds. The Egyptians in general hoped that the Europeans, being in this country, would come to a good understanding with the natives, especially with the Moslems, for the Egyptians are all aware that no happiness or progress can be obtained except by peace and harmony. A party of the Europeans of Egypt, however, do not understand this fact or perhaps do not want to grasp its import.</p>
+                    <p>The general impression is that the Government is in a great measure to be blamed for the present state of feeling, because it has allowed "Al Lewa” to excite the populace by fanatical articles, when it would have been a very simple matter to have checked all such abuse of the liberty of the Press.</p>
+                </div>
+                <div type="item">
+                    <head>KHEDIVIAL GEOGRAPHICAL SOCIETY.</head>
+                    <p>Saturday’s meeting was largely attended. Among those who listened to the eloquent tributes paid to the illustrious dead were H.E. Fakhry Pasha, M. de la Bouliniere, Mgr. Kyrillos Makarius, Coptio-Catholic Patriarch, Herr von Mohl, Piot Bey,  and Ahmed Bey Zaki. Bonola Bey opened the proceedings with an account of the work done by the late Elysee Reclus. Bircher described Major von Wissman’s African discoveries. Abbate Pasha paid -homage to the illustrious de Brazza, and M. Bircher closed the series of notices of the dead with an account of Baron von Richthofen's work in the cause of geographical knowledge At the close of each notice all present rose in honor of the memory of the dead. At 4.45 p.m. the meeting terminated.</p>
+                    <p>The next meeting will take place in January, when Commandant Lemaire, of the Congo Free State, will read a paper on the exploration of Central Africa.</p>
+                </div>
+                <div type="item">
+                    <head>ARMY OF OCCUPATION.</head>
+                    <p>Captain F.F. Doffue, A.S C., has been granted leave of absence on private affairs.</p>
+                    <p>2nd Lieut C.BG. Vernon, 2nd Battalion Royal Inniskilling Fusiliers, embarked for Cyprus to-day for the purpose of inspecting the signallers at that station. On his return he will inspect the signallers at Alexandria, finally returning to Cairo.</p>
+                    <p>Major R. S. Oxley, 1st Battalion King's. Royal Rifle Corps, will embark in the Khedi-vial mail steamer El Kahira to morrow for passage to Crete, via Piraeus.</p>
+                    <p>Major B.J. Lawson, A.V.D., 8.V.O. in Egypt, came down from Cairo yesterday on temporary duty, returning on completion.</p>
+                </div>
+                <div type="item">
+                    <head>MENA HOUSE.</head>
+                    <p>On ’Xmas eve, (Sunday, 24th inst.) there will be a ’Xmas Tree entertainment with tea in the big dining-hall of Mens House Hotel. The Bracale Orchestra and a choir will perform during the afternoon.</p>
+                    <p>There are now a hundred visitors staying at Mena House Hotel, which is about double the number of previous years. All the visitors seem to enjoy their stay there. Dancing is indulged in nearly every night, and the tennis and croquet lawns are always occupied. Excursions in the desert in sandcars or on Mena’s riding horses are quite "the thing,” and the beautiful weather we are having now keeps everyone in good spirits.</p>
+                </div>
+                <div type="item">
+                    <head>STEAMER MOVEMENTS.</head>
+                    <p>The Ellerman S.S. City of Cambridge sailed on Sunday with general cargo, including 6,041 bales cotton, of which 1,679 bales ex S. S. Sardinia (1,503 bales sound and 176 bales damaged).</p>
+                    <p>The Ellerman S. S. City of Khics arrived on Monday morning with general cargo and passengers from Liverpool and Malts.</p>
+                    <p>The Ellerman S. S. Britannia, which sailed hence on the 28th ult., arrived at Liverpool on Monday.</p>
+                </div>
+                <div type="item">
+                    <head>FIND OF GOLD AT KHARGEH.</head>
+                    <head>EXTENSIVE BEDS.</head>
+                    <p>Samples from the phosphate beds in the Khargeh Oasis have bean submitted to Mr. Lucas, the Government chemical expert, who reports that they contain a quantity of pyrites producing 2 dwt of gold to the ton. The residue can be used for the manufacture of sulphuric acid. The beds from which these samples have been taken are very extensive and will, no doubt prove a valuable asset.</p>
+                    <p>A mining license dated July 8. 1903, cedes the Corporation of Western Egypt the right for a period of three years to prospect for metals, minerals, other then earthy minerals and precious stones, in the Oases of Khargeh, Dakhla, Farafra, and Bahariah, and during the continuance of the license the Government undertakes to grant a mining license or con-cession in the areas already mentioned, on the usual terms.</p>
+                </div>
+                <div type="item">
+                    <head>PRINCE LEOPOLD LEAVES CAIRO.</head>
+                    <p>Prince Leopold of Battenberg has gone South and will be, in a few days’-time, the guest of the Sirdar, Sir Reginald Wingate Pasha, at Khartoum, till the middle of January.</p>
+                </div>
+                <div type="item">
+                    <head>A BOTANICAL CURIOSITY.</head>
+                    <p>Members of the Alexandria Horticultural Society, and others who care for botanical curiosities and are unaquainted with the grotesque "Beard and Moustache Lily,” should take the present opportunity of inspecting the fine specimen of this plant to be seen in fall flower in the dep6t of Mr. Tramontina in
+                        Rosetta-road.</p>
+                    <p>It is a tropical, tuberous-rooted, perennial, native of Singapore and the Malay Peninsula, belonging to a small American, Asiatic, and Australian “genua” which has a botanical order all to itself—"Taccacese”—.</p>
+                    <p>The name of the plant as given to it by the distinguished botanist Dr. William Jack, of the E. India Co., sixty years ago, is ’Tacca oristata,” but it is, generally, cultivated under the name of “Ataccia oristats ’’ It is easily reproduced from its numerous tubers, like the potato ; but it cannot be successfully cultivated in the open air in the climate of Alexandria."</p>
+                    <p>The tubers of a closely allied species— “Tacca pinnatifida”—found all over the old world,tropics, and Polynesia, form an important item of the daily f ood of the inhabitants, like the * Qolcas” in Egypt (known in Polynesia as the “taro’’) ; but the "Tacca” has the advantage of being a valuable medicine in cases' of dysentery and diarrhoea. It is. known to the British in the Fiji islands, where it is largely cultivated as well as indigenous, under the name of ”South Sea arrowroot.”</p>
+                    <p>A. H. S.</p>
+                </div>
+                <div type="item">
+                    <head>ZIZINIA THEATRE.</head>
+                    <p>The second representation of Fedora was given last night and proved another triumphant success. Once again we tender to Signa. Bellincioni our warmest congratulations on an altogether perfect performance Her superb ringing, seconded by consummate acting, is beyond praise, and leaves captions discrimination without a leg to stand upon. Such powers can only belong to a rara avis in the operatic world, of which fact none are more aware than the Alexandria audience, who, whilst her most moving passages wore in progress, were enthralled even to maintaining a strict silence; need we say more  Sig. Jose Palet was again in good voice, and his interpretation of the role of Loris left nothing to be desired. His singing is very true, his manner sympathetic, and he plays up well to Signa. Bellincioni. Signa. Alice Zeppilli and Sig. Giovanni Polese also-rendered valuable assistance. The orchestration was faithfully and delicately. carried out under Sig. Zuccani’s able baton. However, it is a well known saying that he “who praises" everything praises nothing," and we feel bound to steer clear of such an impeachment by remarking once more on the altogether disproportionate length of the entr’actes Surely it is no difficult matter to shorten these protracted waits end bring the duration at the performance within reasonable limits. In the present state of things, we might almost hazard an opinion, daring as it is, that people here go to the playhouse solely for the purpose of meeting their friends.</p>
+                </div>
+                <div type="item">
+                    <head>BAND PERFORMANCE.</head>
+                    <p>By kind permission of Lieut Col. C. J Mark-ham and officers, the band of the King’s Royal Rifles will play the following programme in front of Ghezireh Palace Hotel, from. 4 to 6 p.m. on Wednesday :—</p>
+                    <p>1. March-LaMattchicho-Borel-CIerk.</p>
+                    <p>2. Overture in the Italian style Schubert.</p>
+                    <p>4. Selection--The Spring Chicken-Caryll and Monckton.</p>
+                    <p>5. Russian dance - Pas des Patineurs - Godfrey.</p>
+                    <p>6. Cornet solo - Serenata - Braga.</p>
+                    <p>7. Selection from the ballet Dio Puppenfee - Bayer.</p>
+                    <p>8. Two Step "Laughing Water" - Hager.</p>
+                    <p>God save the King</p>
+                    <p>THOK AN BROWN. Bandmaster.</p>
+                    <p>An envelope addressed to "Any Typewriter Company, Philadelphia” was delivered at once by Uncle Sam. on the 18th October last, to the Smith Premier Typewriter Company, 28, South 8th Street.</p>
+                </div>
+                <div type="item">
+                    <head>PERSONAL AND SOCIAL</head>
+                    <p>A dinner was given yesterday evening at
+                        the New Khedivial Hotel by H.B. Mahmoud Pasha Sidky, Governor of Alexandria,in honor of Bear-Admiral the Hon. Hedworth Lamb ton. The other guests- present were Captain Sir George Warrender, Bart. Flag Lieut Hugh B. Mulleneux. Mr. E B. Gould, Mr. F. G Freeman , Bear-Admiral Sir Massie Blomfield. Cap-tab Herbert J. Gedge, Mr. Lionel Sandara, Col. Hopkinson Bey, Mr. B. Williams, and Mr. Chataway.</p>
+                    <p>The Earl of Londesborough will probably pay a visit to Cairo early in the New Year.</p>
+                    <p>Bishop Potter, of Now York, and Mrs. Potter arrived by the Hohenzollern yesterday and are now at the Savoy Hotel.</p>
+                    <p>Mr Vickers (of Vickers, Sons, and Maxim) and party also arrived yesterday and are occupying a large suite of rooms at' the Savoy Hotel.</p>
+                    <p>Major Ricardo-Seavers, ex-President of the Argentine Republic, has arrived at the Tewfik Palace and intends staying a part of the season there.</p>
+                    <p>Count Galazza di Santa Clara, whose name is well-known in Paris aristocratic and acade-mic circles, has returned to the Tewfik to spend the whole season. Quite a number of old clients have engaged rooms, and the hotel is likely to be full up by the end of the year.</p>
+                    <p>Mrs. Crookshank Pasha left yesterday per P. and O. China for England to spend the 'Xmas holidays with her children, and returns to Egypt early in February.</p>
+                    <p>Mr Norman Morrison has been appointed secretary to the Anglo-American hospital at Cairo.</p>
+                    <p>Mr. T. Oliver, representative of Messrs.
+                        Maple and Co., Ltd. London, is expected to arrive at Alexandria on the 18th inst.</p>
+                    <p>The following is the list of passengers who left for Upper Egypt by the train de luxe on Thursday: Mr. Drepelz and party of 12, Rev. F. and Mrs. Starry, Sir Elwin and Lady Palmer, Mr. Harrison, Miss. Baird, Miss M. Kellar, Mr. Cordagli, M. Stavridis, Mr. Bacco, Birch Pasha, Mr. Dupuis, Mr. Ottanham, Said Bey Chouker, Mr. Bennet, Mr. Sagar, Mr. * Bertelli. Mr. Skynder, Hassan Bey Haasib.</p>
+                    <p>The following were the passengers by the train de luxe on Saturday :—Mr. Risler, Mr. Wyndham and party of seven. Mr. Konig and party of three, Mr. George Foaden, Mr. Hoghes, Mr. Gilman, Lieut J. Bruner, Mr. Blair, Mr. Chapmen, Miss Vernon, Mr. Bird, GoL Franzini, Mr. Faber and party of two, CoL Markham and party of two, Jackson Bey, Mr. Creak, and Bimb. Purson.</p>
+                    <p>The following passengers left Shallal by Cook’s P.S. Prince Abbas on Sunday Mrs., Miss M. L and Mias E M. Hogarth, Mr. L Oneto, Mme Justina C. de 0neto, Mlle A. M. Oneto, Mlle A. M.'Noceti. Mlle S. Noceti, Mlle M. B L Masini, Mme Angela M. de Silveirs, Mr. N. Noceti. Mr. T. Carida, ' Mrs F. McLeod Mathaeon, Miss V. McLeod Matheson, Master McLeod Matheson. Miss M. Osborne. Mr. C. Hoyt (Jnr), Mr. H A. Ray-mond, Borton Bey, Mrs. Borton, Dr. and Mrs. Colin Campbell, Mr. and Mrs. Perier, Miss M. Simpson, Miss Methley. Miss J. Greive. Mr. Paul Rewman, Mr.and Mrs Henry H. Worthington, Mr. Rollo Worthington, Miss K.M, Knight, Rev. Alf A. Cooper.</p>
+                    <p>The following passengers left Cairo by Cook’s P.S. Nefertari on Friday.: - Mr. and Mrs. J. Gau, Miss Gau, Miss F. Gau. Mr. L P. Somers, Mr. I.R Barber, Mrs.Attwood Matthews, Rev. and Mrs. Stony, Mrs. and Miss Russell, Mr.
+                        L. S. Tyler, Mr. E. Kirkham.</p>
+                </div>
+                <div type="item">
+                    <p>CARLTON HOTEL</p>
+                    <p>Bulkeley, Ramleh.</p>
+                    <p>Ten miniutes from Alexandria. First-Class in every respect Very moderate
+                        charges. Bulkeley is the fashionable English quarter. Visitors fron
+                        Cairo alight at Sidi Gaber Station.</p>
+                    <p>xxxxx-xx-x-905</p>
+                    <p>G. AQUILINA, Proprieter.</p>
+                </div>
+                <div type="item">
+                    <p>NEW KHEDIVIAL HOTEL</p>
+                    <p>CAIRO.</p>
+                    <p>Built in 1904 Modern House. Splendid situation. Electric Light Lift. Pension P.T. 50. Arrangements for families.</p>
+                    <p>Rooms and Breakfast P.T. 25.--Meals a la Carte.</p>
+                    <p>26780-26-11-208</p>
+                </div>
+                <div type="item" scope="advertisement">
+                    <p>WINDSOR HOTEL Restaurant. </p>
+                    <p>Table d’Hote Luncheons &amp; Dinners Served on the Terrace.</p>
+                    <p>ORCHESTRA PLAYS 6 TO 11.30 P.M </p>
+                    <p>DELIGHTFUL SITUATION - SEA BREEZES.</p>
+                </div>
+                <div type="item" scope="advertisement">
+                    <p>BECK &amp; CO’S PILSENER BEER </p>
+                    <p>BREMEN.</p>
+                    <p>Obtainable from every Respectable Firm In Cairo, Alexandria &amp; the
+                        Sudan.</p>
+                    <p>Otherwise apply to</p>
+                    <p>V. J. FLEURENT, Cairo</p>
+                    <p>F. MICALLEF, Sole Agent, 11 Bab Midan, Alexandria</p>
+                </div>
+            </div>
+            <div type="page" n="4"> </div>
+            <div type="page" n="5"> </div>
+            <div type="page" n="6"> </div>
+        </body>
+    </text>
+</TEI>
