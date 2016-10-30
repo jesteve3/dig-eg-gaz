@@ -3567,7 +3567,741 @@
                 <div type="item" scope="advertisement">
                     <head>GRAND HOTEL D'ANGLETERRE ET BELLE VENISE.</head>
                 </div> </div>
-            <div type="page" n="8"> </div>
+            <div type="page" n="8"> <div type="item">
+    <head>THE EGYPTIAN GAZETTE, FRIDAY DECEMBER 15 1905</head>
+</div>
+<div type="article">
+    <head>REUTER'S TELEGRAMS</head>
+    <head type="sub">CLOSING REPORTS</head>
+    
+    <table cols="2">
+        <row role="label">
+            <cell>Liverpool, December 14, 12.55 p.m.</cell>
+        </row>
+        <row>
+            <cell>Sales of the day</cell>
+            <cell>bales 7,000</cell>
+        </row>
+        <row>
+            <cell>of which Egyptian</cell>
+            <cell>" 400</cell>
+        </row>
+        <row>
+            <cell>American (new crop) Maize Spot per cental</cell>
+            <cell>4/10 1/2</cell>
+        </row>
+        <row>
+            <cell>Amer. futures (Jan.-Feb.)</cell>
+            <cell>6.15</cell>
+        </row>
+        <row>
+            <cell> " " (May-June)</cell>
+            <cell>6.31</cell>
+        </row>
+        <row>
+            <cell>American Middling</cell>
+            <cell>6.23</cell>
+        </row>
+        <row>
+            <cell>Egypt. fully good fair, delivery (Dec.)</cell>
+            <cell>8 8/64</cell>
+        </row>
+        <row>
+            <cell>" " " " " (Jan.)</cell>
+            <cell>8 6/64</cell>
+        </row>
+        <row>
+            <cell>" " " " " (Mar.) </cell>
+            <cell>8 4/64</cell>
+        </row>
+        <row>
+            <cell>" " " " " (April)</cell>
+            <cell>8 4/64</cell>
+        </row>
+        <row>
+            <cell>Egypt. Brown fair per lb. d.</cell>
+            <cell>6 14/16</cell>
+        </row>
+        <row>
+            <cell> " " good fair</cell>
+            <cell>7 12/16</cell>
+        </row>
+        <row>
+            <cell> " " good</cell>
+            <cell>8 9/16</cell>
+        </row>
+        <row>
+            <cell> " fully good fair</cell>
+            <cell>8 4/16</cell>
+        </row>
+        <row>
+            <cell>Egyptian Saidi Beans new (per 480 lbs.)</cell>
+            <cell>33/</cell>
+        </row>
+        <row role="label">
+            <cell>New-York, December 14</cell>
+        </row>
+        
+        <row>
+            <cell>Spot Cotton... </cell>
+            <cell>12 -</cell>
+        </row>
+        <row>
+            <cell>American Futures (January)</cell>
+            <cell>11.56</cell>
+        </row>
+        <row>
+            <cell> " " (February)</cell>
+            <cell>11.69</cell>
+        </row>
+        <row>
+            <cell> " " (May)</cell>
+            <cell>11.98</cell>
+        </row>
+        <row>
+            <cell> " " (June)</cell>
+            <cell>12.01</cell>
+        </row>
+        <row>
+            <cell>Cable transfers</cell>
+            <cell>dol. 4.86 3/8</cell>
+        </row>
+        <row>
+            <cell>Cotton day’s receipts at all U.-S. Ports</cell>
+            <cell>bales 32,000</cell>
+        </row>
+        
+        
+        <row role="label">
+            <cell>New Orleans, December 14</cell>
+        </row>
+        
+        <row>
+            <cell>Cotton Spot</cell>
+            <cell>11 14/16</cell>
+        </row>
+        <row>
+            <cell>" Futures March</cell>
+            <cell>12.11</cell>
+        </row>
+        <row>
+            <cell>" " June.</cell>
+            <cell>12.34</cell>
+        </row>
+        
+        
+        
+        <row role="label">
+            <cell>Liverpool, December 14</cell>
+        </row>
+        
+        <row>
+            <cell>American futures (January-February)</cell>
+            <cell>6.15</cell>
+        </row>
+        
+        <row role="label">
+            <cell>London, December 14</cell>
+        </row>
+        
+        <row>
+            <cell>Private discount (3 month bills)</cell>
+            <cell>3 1/2 %</cell>
+        </row>
+        <row>
+            <cell>Bar Silver (per oz d.)</cell>
+            <cell>30 5/16</cell>
+        </row>
+        <row>
+            <cell>Consols (Januray)</cell>
+            <cell>89 1/4</cell>
+        </row>
+        <row>
+            <cell>Egyptian Unified</cell>
+            <cell>104 -</cell>
+        </row>
+        <row>
+            <cell>Turkish Unified</cell>
+            <cell> 90 1/8</cell>
+        </row>
+        <row>
+            <cell>Rio Tinto</cell>
+            <cell>67 1/8</cell>
+        </row>
+        <row>
+            <cell>New Daira</cell>
+            <cell>17 1/4</cell>
+        </row>
+        <row>
+            <cell>Agricultural Bank</cell>
+            <cell> 9 1/4</cell>
+        </row>
+        <row>
+            <cell>National Bank of Egypt</cell>
+            <cell>25 1/4</cell>
+        </row>
+        <row>
+            <cell>Rand Mines New</cell>
+            <cell>7 1/2</cell>
+        </row>
+        <row>
+            <cell>Chartereds of S. Africa</cell>
+            <cell>1 13/16</cell>
+        </row>
+        <row>
+            <cell>Nile Valley Gold Mine</cell>
+            <cell>5/8</cell>
+        </row>
+        <row>
+            <cell>New Egyptians</cell>
+            <cell>1 1/2</cell>
+        </row>
+        <row>
+            <cell>The Western Oasis Corporation</cell>
+            <cell>3/4 premium</cell>
+        </row>
+        <row>
+            <cell>Delta Light (Bearer shares)</cell>
+            <cell>11 1/2</cell>
+        </row>
+        <row>
+            <cell>Egyptian Railway</cell>
+            <cell>102 ¼</cell>
+        </row>
+        <row>
+            <cell> " Domain</cell>
+            <cell>104 -</cell>
+        </row>
+        <row>
+            <cell>Ottoman Defence</cell>
+            <cell>103 1/2</cell>
+        </row>
+        <row>
+            <cell>Italian Rents 4%</cell>
+            <cell>105 -</cell>
+        </row>
+        <row>
+            <cell>Greek Monopole</cell>
+            <cell>53 -</cell>
+        </row>
+        <row>
+            <cell>Greek Rent 4%</cell>
+            <cell>40 3/4</cell>
+        </row>
+        
+        <row>
+            <cell>Ottoman Bank</cell>
+            <cell>14 —</cell>
+        </row>
+        <row>
+            <cell>Egypt, cot. seed to Hull (Dec.)</cell>
+            <cell>5 10/16 buyers</cell>
+        </row>
+        <row>
+            <cell>German Beet Sugar (December) </cell>
+            <cell>8/2 1/2</cell>
+        </row>
+        <row role="label">
+            <cell>Paris, December 14</cell>
+        </row>
+        <row>
+            <cell>Banque d'Athenes</cell>
+            <cell>131 —</cell>
+        </row>
+        <row>
+            <cell>Crédit Foncier Egyptien</cell>
+            <cell>770 —</cell>
+        </row>
+        <row>
+            <cell>Crédit Lyonnais</cell>
+            <cell>1067 —</cell>
+        </row>
+        <row>
+            <cell>Comptoir National d'Escompte</cell>
+            <cell>- -</cell>
+        </row>
+        <row>
+            <cell>Land Bank of Egypt</cell>
+            <cell>- -</cell>
+        </row>
+        <row>
+            <cell>Ottoman Bank</cell>
+            <cell>599 —</cell>
+        </row>
+        <row>
+            <cell>Lots Turcs</cell>
+            <cell>134 —</cell>
+        </row>
+        <row>
+            <cell>Cheques on London</cell>
+            <cell>25.10 —</cell>
+        </row>
+        <row>
+            <cell>Sugar White No. 3 (December)</cell>
+            <cell>24 1/4</cell>
+        </row>
+    </table>
+</div>
+<div type="article">
+    <head>CEREAL MARKET</head>
+    <p>ROD EL FARAG (National Bank’s Shoonah) </p>
+    
+    <table rows="17" cols="5"><head>Yesterday’s Prices </head>
+        <row>
+            <cell>Wheat, Tugari</cell>
+            <cell>Ard. P.T.</cell>
+            <cell>134</cell>
+            <cell>to P.T.</cell>
+            <cell>135</cell>
+        </row>
+        <row>
+            <cell>" Middling</cell>
+            <cell>" "</cell>
+            <cell>136</cell><cell>" "</cell>
+            <cell>138</cell>
+        </row>
+        <row>
+            <cell>" Mawani</cell><cell>" "</cell>
+            <cell>140</cell><cell>" "</cell>
+            <cell>145</cell>
+        </row>
+        <row>
+            <cell>" Shami</cell><cell>" "</cell>
+            <cell>115</cell><cell>" "</cell>
+            <cell>118</cell>
+        </row>
+        <row>
+            <cell>Beans, Tugari</cell><cell>" "</cell>
+            <cell>149</cell><cell>" "</cell>
+            <cell>151</cell>
+        </row>
+        <row>
+            <cell>" Zawati</cell><cell>" "</cell>
+            <cell>153</cell><cell>" "</cell>
+            <cell>155</cell>
+        </row>
+        <row>
+            <cell>" Nabati</cell><cell>" "</cell>
+            <cell>162</cell><cell>" "</cell>
+            <cell>165</cell>
+        </row>
+        <row>
+            <cell>" Old</cell><cell>" "</cell>
+            <cell>—</cell><cell>" "</cell>
+            <cell>—</cell>
+        </row>
+        <row>
+            <cell> Lentils, Tugari</cell><cell>" "</cell>
+            <cell>115</cell><cell>" "</cell>
+            <cell>120</cell>
+        </row>
+        <row>
+            <cell>" Zawati</cell><cell>" "</cell>
+            <cell>135</cell><cell>" "</cell>
+            <cell>138</cell>
+        </row>
+        <row>
+            <cell>Barley, Tugari</cell><cell>" "</cell>
+            <cell>80</cell><cell>" "</cell>
+            <cell>81</cell>
+        </row>
+        <row>
+            <cell>" Zawati</cell><cell>" "</cell>
+            <cell>83</cell><cell>" "</cell>
+            <cell>85</cell>
+        </row>
+        <row>
+            <cell>" Marluti</cell><cell>" "</cell>
+            <cell>-</cell><cell>" "</cell>
+            <cell>-</cell>
+        </row>
+        <row>
+            <cell>" Hamwi</cell><cell>" "</cell>
+            <cell>-</cell><cell>" "</cell>
+            <cell>-</cell>
+        </row>
+        <row>
+            <cell>Dura Shami</cell><cell>" "</cell>
+            <cell>96</cell><cell>" "</cell>
+            <cell>98</cell>
+        </row>
+        <row>
+            <cell> " Rafia</cell><cell>" "</cell>
+            <cell>93</cell><cell>" "</cell>
+            <cell>95</cell>
+        </row>
+        <row>
+            <cell>Helba</cell><cell>" "</cell>
+            <cell>190</cell><cell>" "</cell>
+            <cell>195</cell>
+        </row>
+        <row>
+            <cell>Termis</cell><cell>" "</cell>
+            <cell>72</cell><cell>" "</cell>
+            <cell>73</cell>
+        </row>
+        <row>
+            <cell>Hummos</cell><cell>" "</cell>
+            <cell>160</cell><cell>" "</cell>
+            <cell>165</cell>
+        </row>
+    </table>
+    
+    <table rows="9" cols="2"><head> Cereals in Boat at Sahel</head>
+        <row>
+            <cell>Wheat Ard.</cell>
+            <cell> 5000</cell>
+        </row>
+        <row>
+            <cell>Beans "</cell>
+            <cell>4000</cell>
+        </row>
+        <row>
+            <cell>Lentils "</cell>
+            <cell>1000</cell>
+        </row>
+        <row>
+            <cell>Barley "</cell>
+            <cell>1000</cell>
+        </row>
+        <row>
+            <cell> " Mariuti "</cell>
+            <cell>-</cell>
+        </row>
+        <row>
+            <cell> " Shami "</cell>
+            <cell>2000</cell>
+        </row>
+        <row>
+            <cell>Hamwi " </cell>
+            <cell>—</cell>
+        </row>
+        <row>
+            <cell>Dura Shami " </cell>
+            <cell>100</cell>
+        </row>
+        <row>
+            <cell> " Rafia "</cell>
+            <cell>300</cell>
+        </row>
+        <row>
+            <cell> Helba "</cell>
+            <cell>250</cell>
+        </row>
+    </table>
+</div>
+<div type="item" scope="financial">
+    <head>ARRIVAGES A MINET-EL-BASSAL</head>
+</div>
+<div type="article">
+    <head>Exterieur</head>
+    <p>Dépêches particulières du 14 décembre 1905</p>
+    <p>PRODUITS EGYPTIENS</p>
+    <p>LIVERPOOL</p>
+    <p><hi rend="italic">Coton: Etat du Marché</hi>.—Calme </p>
+    <p><hi rend="italic">Disp</hi>..— F.G.F.: 8 1/4 (sans ohangement) </p>
+    <p><hi rend="italic">Futurs</hi> Déc :8 8/64 (1/64 point de hausse)</p>
+    <p>LIVERPOOL</p>
+    <p><hi rend="italic">Graines de coton</hi>.—Calmes </p>
+    <p><hi rend="italic">Fèves</hi> — Sans affaires</p>
+    <p>HULL</p>
+    <p><hi rend="italic">Graines de coton</hi>.—Sans changement </p>
+    <p><hi rend="italic">Fèves</hi>.—Marché null</p>
+    <p>LONDRES</p>
+    <p><hi rend="italic">Graines de coton</hi>.— Fermes</p>
+    <p>COTON AMÉRICAIN</p>
+    <p>LIVERPOOL</p>
+    <p>Futurs jan.-fév.: 6.15 </p>
+    <p>" mai-juin.: 6.31  </p>
+    <p>Disponible : 6.23 (6 points de hausse)</p>
+    <p> NEW-YORK</p>
+    <p>Middling Upland: 12.00 </p>
+    <p> Futurs jan.: 11.56 (6 points de baisse)</p>
+    <p>" mai : 11.98 (7 points de baisse) </p>
+    <p> Arrivages du jour, balles 32,000 </p>
+    <p> Contre même jour, l’année dernière, balles 57,000</p>
+</div>
+<div type="item" scope="financial">
+    <head>NOLIS</head>
+</div>
+<div type="item" scope="financial">
+    <head>LONDON STOCK EXCHANGE.</head>
+</div>
+<div type="article">
+    <head>EASTERN TELEGRAPH CO. LTD.</head>
+    <p>AVERAGE TIME occupied in transmission of Egyptian telegrams from England to
+        Alexandria on Thursday, 14th Dec., 1905. </p>
+    <p>OUTWARDS.</p>
+    <p>Between the hours of 10 a.m. and 6 p.m. (Cairo time)</p>
+    <table rows="6" cols="3">
+        <row role="label">
+            <cell>FROM</cell>
+            <cell>MESSAGES HANDED IN AT The Company’s Offices. H. M.</cell>
+            <cell>MESSAGES HANDED IN AT Postal Telegraph Offices. H. M.</cell>
+        </row>
+        <row>
+            <cell>London</cell>
+            <cell><measure unit="min">17</measure></cell>
+            <cell>33</cell>
+        </row>
+        <row>
+            <cell>Liverpool</cell>
+            <cell>18</cell>
+            <cell>—</cell>
+        </row>
+        <row>
+            <cell>Manchester</cell>
+            <cell>28</cell>
+            <cell>—</cell>
+        </row>
+        <row>
+            <cell>Glasgow</cell>
+            <cell>28</cell>
+            <cell>—</cell>
+        </row>
+        <row>
+            <cell>Other Provincial Offices</cell>
+            <cell>—</cell>
+            <cell>32</cell>
+        </row>
+    </table>
+</div>
+<div type="item" scope="advertisement">
+    <p>Allen, Alderson &amp; Co. Limited.</p>
+    <p>SOLE AND EXCLUSIVE AGENTS FOR</p>
+    <p>Messrs. RUSTON, PROCTOR &amp; CO., LIMITED, Lincoln. Fixed and Portable Steam
+        and Oil Engines, Corn Mills. Paten Tibben-making Thrashing Machines.</p>
+    <p>Messrs. PLATT BROTHERS &amp; CO., LIMITED, Oldham. Cotton Ginning
+        Machinery.</p>
+    <p>Messrs. JOHN FOWLER &amp; CO., LIMITED, Leeds. Steam Ploughing Machinery aad
+        Sundries.</p>
+    <p>THE CENTRAL CYCLONE CO., LIMITED, London. Grinding and Pulverising
+        Machinery.</p>
+    <p>Messrs. CAMMELL, LAIRD &amp; CO., LD.. of Sheffield. Steel Ralls, springs,
+        buffers, &amp;c. — Patent sand blast files.</p>
+    <p>Messrs. MERRYWEATHER &amp; SONS, London. Steam and Manual Fire Engines.</p>
+    <p>Messrs. F. REDDAWAY &amp; CO., LD., Pendleton, Manchester. The Camel Brand
+        Belting, etc., etc.</p>
+    <p>Ratner’s Safes.</p>
+    <p>THE ENGELBERG RICE HULLER. Gilkes Vortex Turbines.</p>
+    <p>Messrs. A. RANSOME &amp; Co., LIMITED, Newark-on-Trent. Wood Working
+        Machinery and Appliances.</p>
+    <p>McCORMICK’S REAPERS &amp; MOWERS.</p>
+    <p>PLANET JUNIOR AGRICULTURAL IMPLEMENTS. Horse Hoes, Seed, Drills, etc.,
+        etc.</p>
+    <p>OLIVER PLOUGHS.</p>
+    <p>Agent in Cairo: M. A. FATTUCCI.</p>
+    <p>Agent In Khartoum: RIETI &amp; BERTELLI.</p>
+    <p>Chatwood's Safes in Stock.</p>
+    <p>Agents for Green's Economisers.</p>
+</div>
+<div type="item" scope="advertisement">
+    <head>Egyptian Delta Light Railways Co., Limited.</head>
+    <p>Connections made with the most important trains ff the State Railway in the
+        Provinces of Behera, Gharbieh, Dakahlieh Charkieh and Galioubieh. Through
+        service for goods between all stations Of the Company and over 100 principal
+        stations of the State Railway in Upper and Lower Egypt. Goods may also be
+        through-booked from or to any station on Helouan Railway. The Company has 70
+        stations opened for public Telegraph Service in conjunction with all offices of
+        the Government Telegraph Department. For time tables, tariffs and information
+        apply to the offices at Cairo, Alexandria Damanhour, Tantah, Zagazig, or Saida Zanah. </p>
+    <table rows="4" cols="16">
+        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+        <row>
+            <cell>Bab-el-Louck...Dep. </cell>
+            <cell>6.40</cell>
+            <cell>8. 5</cell>
+            <cell>9.10</cell>
+            <cell>9.50</cell>
+            <cell>10.10</cell>
+            <cell>11.45</cell>
+            <cell>12. 5</cell>
+            <cell>1. 5</cell>
+            <cell>1.25</cell>
+            <cell>2.15</cell>
+            <cell>3.10</cell>
+            <cell>4.10</cell>
+            <cell>5.15</cell>
+            <cell>6.15</cell>
+            <cell>7.30</cell>
+            <cell>8.30</cell>
+            <cell>10.10</cell>
+            <cell>12.30</cell>
+        </row>
+        <row>
+            <cell>Helouan......Arr.</cell>
+            <cell>7.30</cell>
+            <cell>8.47</cell>
+            <cell>9.45</cell>
+            <cell>--</cell>
+            <cell>10.47</cell>
+            <cell>--</cell>
+            <cell>12.40</cell>
+            <cell>--</cell>
+            <cell>2.--</cell>
+            <cell>3.--</cell>
+            <cell>3.45</cell>
+            <cell>4.52</cell>
+            <cell>5.49</cell>
+            <cell>7.--</cell>
+            <cell>8. 4</cell>
+            <cell>9.26</cell>
+            <cell>10.47</cell>
+            <cell>1. 7</cell>
+        </row>
+        <row>
+            <cell>Helouan........Dep</cell>
+            <cell>6.50</cell>
+            <cell>7.50</cell>
+            <cell>8.10</cell>
+            <cell>9.10</cell>
+            <cell>10.10</cell>
+            <cell>--</cell>
+            <cell>12. 5</cell>
+            <cell>--</cell>
+            <cell>1.25</cell>
+            <cell>--</cell>
+            <cell>2.25</cell>
+            <cell>3.10</cell>
+            <cell>4.15</cell>
+            <cell>5.15</cell>
+            <cell>6.25</cell>
+            <cell>7.25</cell>
+            <cell>8.50</cell>
+            <cell>10.15</cell>
+            <cell>11.15</cell>
+        </row>
+        <row>
+            <cell>Bab-el-Louck... Arr.</cell>
+            <cell>7.35</cell>
+            <cell>8.20</cell>
+            <cell>8.57</cell>
+            <cell>9.45</cell>
+            <cell>10.47</cell>
+            <cell>11.10</cell>
+            <cell>12.42</cell>
+            <cell>12.58</cell>
+            <cell>1.2</cell>
+            <cell>2.22</cell>
+            <cell>2.59</cell>
+            <cell>3.49</cell>
+            <cell>5. 2</cell>
+            <cell>5.49</cell>
+            <cell>6.59</cell>
+            <cell>8.13</cell>
+            <cell> 9.32</cell>
+            <cell>10.53</cell>
+            <cell>11.55</cell>
+        </row>
+    </table>
+</div>
+<div type="item" scope="advertisement">
+    <head>CAIRO SEWAGE TANSPORT CY., LD.</head>
+</div>
+<div type="item" scope="financial">
+    <head>ASSOCIATION DES COURTIERS EN MARCHANDISES</head>
+</div>
+<div type="item" scope="financial">
+    <head>RESUME DE LA SITUATION COTONNIERE</head>
+</div>
+<div type="item" scope="financial">
+    <head>EGYPTIAN MARKETS, LIMITED</head>
+</div>
+<div type="item" scope="financial">
+    <head>PRIMES DES CONTRATS</head>
+</div>
+<div type="item" scope="financial">
+    <head>BRASSERIE DES PYRAMIDES</head>
+</div>
+<div type="item" scope="advertisement">
+    <head>LINIMENT GENEAU</head>
+</div>
+<div type="item">
+    <head>CREDIT LYONNAIS
+        Société Anonyme
+        CAPITAL 250,000,000 DE FRANCS
+        Entièrement Versés</head>
+    <p>Agences d'Egypte :</p>
+    <p>Alexandria, Le Caire, Port-Said</p>
+    <p>LE CREDIT LYONNAIS fait toutes operations de banque, telles que :</p>
+    <p>Avances sur titres ;</p>
+    <p>Ouverture de comptes courants contre dépots de valeurs ;</p>
+    <p>Emission de traites et cheques, emission de lettres de Credit, paiement par telegraphe sur les principales villes de la France et de l'etranger ;</p>
+    <p>Garde de titres ;</p>
+    <p>Recouvrement d'effets sur l'Egypte et l'etranger ;</p>
+    <p>Le Credit Lyonnais recoit des fonds on un compte de depot et delivre des bons a echeance fixe aux taux suivants :</p>
+    <p>2% aux bons de 1 an et au-dala.</p>
+    <p>25288</p>
+    <p>81.12.205</p>
+</div>
+<div type="item">
+    <p>L'EGYPTIAN GAZETTE est en vent dans les rues du Caire tous les soirs à 7 h.30, excepté les dimanches et jours fériés. Le journal est aussi en vente aux pares du Caire, d'Alexandrie, de Tantah, de Damanhour de Kafr-Zayat et de Zagasig. Pris numéro des jour, 1 P.T.</p>
+</div>
+<div type="item" scope="advertisement">
+    <head>STEINEMANN, MABARDI &amp; CO</head>
+</div>
+<div type="item" scope="advertisement">
+    <head>ORENSTEIN &amp; KOPPEL, LTD.</head>
+</div>
+<div type="item" scope="advertisement">
+    <head>THOS. HINSHELWOOD &amp; CO.</head>
+</div>
+<div type="item" scope="advertisement">
+    <head>Thos. Cook &amp; Son (Egypt), Ltd.</head>
+    <p>Engineers, Boulac, Cairo. Alexandria.</p>
+    <p> MECHANICAL AND ELECTRICAL ENGINEERS, ALSO SHIPBUILDERS, &amp;C., &amp;C. All
+        classes of engineering work and supply of stores undertaken. Pontoon Dock for
+        raising vessels of the largest size. </p>
+    <p>BOULAC ENGINE WORKS</p>
+    <p>Branches at Sharia Bab-El-Hadeed (CAIRO), ALEXANDRIA AND KHARTOUM.</p>
+    <p>Sole agents in Egypt for</p>
+    <p>RICHARD GARRETT &amp; SONS, LTD. Portable and semi-portable steam engines, Road
+        rollers, threshing and straw-chopping machines. </p>
+    <p>SHAND, MASON &amp; CO. Patent Steam and Manual Fire Engines.</p>
+    <p>NOBEL'S EXPLOSIVES CO., LTD. Gelignits, Blasting Gelatine, detonators, safety
+        fuse, etc. ‘‘Sporting Ballistite” and “Empire" Cartridges.</p>
+    <p>GEO. ANGUS &amp; CO., LTD. Machine belting of every description, leather, rubber,
+        cotton and Balata.</p>
+    <p>TANGYES LIMITED (SOLE VENDORS.) Steam, Oil and Gas Engines, with Produce Plants,
+        Pumps and Machinery of all description.</p>
+    <p>CROMPTON &amp; Co., LTD. Dynamos, motors and electric machinery of all
+        description.</p>
+    <p>STOHWASSER &amp; WINTER PUTTIE LEGGING &amp; MILITARY EQUIPMENTS CORPORATION LTD.
+        Agents for Jesse Ellis &amp; Co. Steam and Oil Motor Wagons.</p>
+    <p>CHUBB &amp; SON'S LOCK &amp; SAFE CO. LTD Chubb's Steel Safes of all sizes on
+        hand, the building of strong rooms undertaken.</p>
+    <p>COCHRAN &amp; CO. ANNAN, LTD. The Cochran patent vertical boilers.</p>
+    <p>THE SEAMLESS STEEL BOAT CO., LTD. Seamless steel boats fitted with any class of
+        motor. </p>
+    <p>THE COOPER STEAM DIGGER CO. LTD. Diggers made in size No. 5, 6, 8 and 12. </p>
+    <p>Specialities: TANGYES’ GAS ENGINES with Producer Plants, COOPER PATENT STEAM
+        DIGGER, specially suitable for small landowners.</p>
+    <p>Telegraphic Address :"ENGINEER, CAIRO" and “ENGINEER, ALEXANDRIA." </p>
+    <p>Works Office in town, Sharia Bab-El-Hadeed (Cairo).</p>
+    <p>Alexandria Office and Stores, Abu Dirdar Street, No. 12. 10.12.905</p>
+</div>
+<div type="item" scope="advertisement">
+    <head>G. MARCUS &amp; Co.</head>
+    <p>SOLE AGENTS FOR EGYPT FOR MILNER'S SAFE COMPANY, LIMITED.</p>
+    <p>Transatlantic Fire Insurance Company, Limited of Hamburg. (Covers also Burglary
+        Risks.)</p>
+    <p>The National Assurance Company of Ireland.</p>
+    <p>Fire Insurance Policies granted on all approved Descriptions of Property, at
+        moderate rates.</p>
+    <p>ALEXANDRIA, Maison A. N. Abey, Rue Constantinople. CAIRO, Hosh Issa</p>
+    <p>17-11A-905</p>
+</div>
+<div type="item" scope="advertisement">
+    <head>NOUVEAU REMEDE PURGATIF IDEAL</head>
+    <p>Contre: Constipation, Congestion, Hemerrhoides, Migraine<lb/> Obesite, etc.
+        Conserve le beint frais et la taille svelte ; d'une efficacité absolue agit
+        <lb/> sans douleurs. Il es conseillé par toutes les sommités<lb/> medicales.
+        Le purgatif le plus économique.</p>
+    <p>PURGEN</p>
+    <p>Prix 1.50 pour 12 purgations. Se trouve dans toutes les pharmacies.</p>
+    <p>Dépôt général pour l'Égypte GEO. BUSLENEG, Pharamcien, Alexandrie.
+        25-1-05</p>
+</div> </div>
         </body>
     </text>
 </TEI>
